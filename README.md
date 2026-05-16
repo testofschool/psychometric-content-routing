@@ -8,9 +8,9 @@ Jung Min Kang (2026)
 
 ## Key Result
 
-Under equal token budgets (4 of 20 chunks), PCR achieves:
-- **6.06 ± 1.39** vs 3.67 ± 2.36 (difficulty-only), Cohen's d = 1.23, p = 0.004
-- 83% pairwise win rate against difficulty-only
+Under equal chunk counts (4 of 20), PCR achieves:
+- **6.06 ± 1.39** vs 3.67 ± 2.36 (difficulty-only), Cohen's d = 1.23
+- 15/18 judge-repeat wins (p = 0.004); 5/6 user-level trend (p ≈ 0.109)
 - Trends above corpus-prefix (5.67) and fixed-random (4.72)
 
 ## Method
@@ -26,7 +26,7 @@ export GROQ_API_KEY=your_key_here
 # Run experiment (author-assigned difficulty, reported results)
 python src/run_experiment.py
 
-# Run with LLTM-estimated difficulty (API-free routing, experimental)
+# Run with LLTM-estimated difficulty (experimental)
 python src/run_experiment.py --lltm
 
 # Regenerate simulation figures (1 and 6)
