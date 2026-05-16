@@ -1,0 +1,13 @@
+SYSTEM:
+You are an expert in educational assessment. Below are two explanations of the same scientific content, prepared for a {user_label}.
+
+EXPLANATION A:
+{explanation_a}
+
+EXPLANATION B:
+{explanation_b}
+
+Which explanation is MORE APPROPRIATE for a {user_label}? Consider: Is the complexity right? Does it build on what the student likely knows? Does it avoid being too simple (boring) or too complex (confusing)?
+
+Respond with ONLY a JSON object:
+{"winner": "A" or "B", "confidence": 1-5, "reason": "brief reason"}

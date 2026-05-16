@@ -1,0 +1,1710 @@
+{
+  "c653263a2d151e8370ed29fa94320d6c9daa8602c39c9af601cedc42502b07dc": {
+    "ok": true,
+    "content": "{\"difficulty\": 2, \"level\": \"elementary\", \"reason\": \"Simple vocabulary and basic scientific concepts\"}",
+    "tokens_used": 206,
+    "prompt_tokens": 181,
+    "completion_tokens": 25,
+    "cached_at": "2026-05-16T05:26:05+0900"
+  },
+  "14dc3677223c8ad5218f62cf69de4a5d744f8ba2c9cf0a01895119f2ebf187eb": {
+    "ok": true,
+    "content": "{\"difficulty\": 2, \"level\": \"elementary\", \"reason\": \"simple vocabulary and short sentences\"}",
+    "tokens_used": 200,
+    "prompt_tokens": 176,
+    "completion_tokens": 24,
+    "cached_at": "2026-05-16T05:26:08+0900"
+  },
+  "a6d6e19c89f00d139699730a0971e3ac441678af3d515a9841593abf859f7794": {
+    "ok": true,
+    "content": "{\"difficulty\": 6, \"level\": \"high\", \"reason\": \"basic biology vocabulary and concepts, but some technical terms like mitochondria and cellular respiration\"}",
+    "tokens_used": 216,
+    "prompt_tokens": 181,
+    "completion_tokens": 35,
+    "cached_at": "2026-05-16T05:26:11+0900"
+  },
+  "cec9fc8c9faad140588c0fb87232892e117ad7cc43247a5363755fd6498b1867": {
+    "ok": true,
+    "content": "{\"difficulty\": 6, \"level\": \"high\", \"reason\": \"uses scientific vocabulary and concepts, but explains them in a clear and concise manner\"}",
+    "tokens_used": 215,
+    "prompt_tokens": 182,
+    "completion_tokens": 33,
+    "cached_at": "2026-05-16T05:26:14+0900"
+  },
+  "5876627f00cf7893da0f9cb078e65a56015c9174af79d8f6ebd64388d5542302": {
+    "ok": true,
+    "content": "{\"difficulty\": 7, \"level\": \"undergraduate\", \"reason\": \"technical vocabulary and complex concepts like entropy and thermodynamics\"}",
+    "tokens_used": 210,
+    "prompt_tokens": 181,
+    "completion_tokens": 29,
+    "cached_at": "2026-05-16T05:26:17+0900"
+  },
+  "4078f047708f176470f0d8cece7ed84b358c7a1a3745e80cdd3fe5093fc57f83": {
+    "ok": true,
+    "content": "{\"difficulty\": 8, \"level\": \"undergraduate\", \"reason\": \"technical vocabulary and complex physics concepts\"}",
+    "tokens_used": 210,
+    "prompt_tokens": 185,
+    "completion_tokens": 25,
+    "cached_at": "2026-05-16T05:26:20+0900"
+  },
+  "6c8e66dc6bd5912c6a3baaebf78d13ffdcb9a392d0d67515ee4362ec28370dad": {
+    "ok": true,
+    "content": "{\"difficulty\": 9, \"level\": \"graduate\", \"reason\": \"technical vocabulary and complex concepts from quantum mechanics\"}",
+    "tokens_used": 214,
+    "prompt_tokens": 188,
+    "completion_tokens": 26,
+    "cached_at": "2026-05-16T05:26:23+0900"
+  },
+  "866b3c5faa75f7eb1707a611a80603b9df5684b07a52da7f8bf4443c96b2aefe": {
+    "ok": true,
+    "content": "{\"difficulty\": 8, \"level\": \"graduate\", \"reason\": \"technical vocabulary and statistical concepts\"}",
+    "tokens_used": 214,
+    "prompt_tokens": 191,
+    "completion_tokens": 23,
+    "cached_at": "2026-05-16T05:26:26+0900"
+  },
+  "98120c8cb6b5b62a42647f272753fb779af3a0b642e6fd3189b3c06cfb8731d5": {
+    "ok": true,
+    "content": "{\"difficulty\": 9, \"level\": \"graduate\", \"reason\": \"technical vocabulary and complex mathematical concepts\"}",
+    "tokens_used": 233,
+    "prompt_tokens": 209,
+    "completion_tokens": 24,
+    "cached_at": "2026-05-16T05:26:29+0900"
+  },
+  "c94e90ff44e60a3cbb46b58db7e24e64719f1e7901139baca3f5079573ec6a16": {
+    "ok": true,
+    "content": "{\"difficulty\": 9, \"level\": \"graduate\", \"reason\": \"technical vocabulary and complex mathematical concepts\"}",
+    "tokens_used": 248,
+    "prompt_tokens": 224,
+    "completion_tokens": 24,
+    "cached_at": "2026-05-16T05:26:31+0900"
+  },
+  "0d791ae0dc146a77b8a817597dd2539a145e60069ae6929c1b311e2690607a4c": {
+    "ok": true,
+    "content": "{\"difficulty\": 2, \"level\": \"elementary\", \"reason\": \"Simple vocabulary and short sentences explain a basic concept.\"}",
+    "tokens_used": 204,
+    "prompt_tokens": 175,
+    "completion_tokens": 29,
+    "cached_at": "2026-05-16T05:26:34+0900"
+  },
+  "947423240f77a4b9a4c20ae9c67b4f7fadf4261b895ab51ebfb88b0022e69dea": {
+    "ok": true,
+    "content": "{\"difficulty\": 2, \"level\": \"elementary\", \"reason\": \"Simple vocabulary and sentence structure\"}",
+    "tokens_used": 202,
+    "prompt_tokens": 178,
+    "completion_tokens": 24,
+    "cached_at": "2026-05-16T05:26:37+0900"
+  },
+  "4c3880b7acc5ca6649af90e930434c12793ecf2cb2c90047040c99beeb3663a6": {
+    "ok": true,
+    "content": "{\"difficulty\": 4, \"level\": \"middle\", \"reason\": \"simple vocabulary and sentence structure\"}",
+    "tokens_used": 200,
+    "prompt_tokens": 177,
+    "completion_tokens": 23,
+    "cached_at": "2026-05-16T05:26:40+0900"
+  },
+  "cd62b4aee82eb344d7c19ae4c279fa270f3bcd9893b60fec5023aad0c195b83e": {
+    "ok": true,
+    "content": "{\"difficulty\": 6, \"level\": \"high\", \"reason\": \"uses technical vocabulary like atomic number, valence electrons, and noble gases\"}",
+    "tokens_used": 214,
+    "prompt_tokens": 182,
+    "completion_tokens": 32,
+    "cached_at": "2026-05-16T05:26:43+0900"
+  },
+  "3142c6401f857ee42fa93e6419a79fd7d473f9f3ebf43f64b2f2f48ce670f637": {
+    "ok": true,
+    "content": "{\"difficulty\": 6, \"level\": \"high\", \"reason\": \"technical vocabulary and concepts require some background knowledge of chemistry\"}",
+    "tokens_used": 218,
+    "prompt_tokens": 190,
+    "completion_tokens": 28,
+    "cached_at": "2026-05-16T05:26:46+0900"
+  },
+  "355a1ff2f9522d5568b91902c1259b819b8b16788c7caebdd75d10c020ab201f": {
+    "ok": true,
+    "content": "{\"difficulty\": 6, \"level\": \"high\", \"reason\": \"technical vocabulary and complex physics concepts\"}",
+    "tokens_used": 200,
+    "prompt_tokens": 176,
+    "completion_tokens": 24,
+    "cached_at": "2026-05-16T05:26:49+0900"
+  },
+  "9164ba65390fd8a5f8e8793d709093241b6a1126abd71170f50dfb8c4a7f0fef": {
+    "ok": true,
+    "content": "{\"difficulty\": 9, \"level\": \"graduate\", \"reason\": \"technical vocabulary and complex concepts from general relativity\"}",
+    "tokens_used": 220,
+    "prompt_tokens": 193,
+    "completion_tokens": 27,
+    "cached_at": "2026-05-16T05:26:52+0900"
+  },
+  "2d4a5dea65dc9ae59b5cae27e3aba39541d1705fa631fb435cffd5855f04f657": {
+    "ok": true,
+    "content": "{\"difficulty\": 8, \"level\": \"graduate\", \"reason\": \"technical vocabulary and complex mathematical concepts\"}",
+    "tokens_used": 215,
+    "prompt_tokens": 191,
+    "completion_tokens": 24,
+    "cached_at": "2026-05-16T05:26:55+0900"
+  },
+  "e9f0756ad8e982b784cee58074d3a0b814695ca21e2db713684df68f710425de": {
+    "ok": true,
+    "content": "{\"difficulty\": 9, \"level\": \"graduate\", \"reason\": \"technical vocabulary and advanced mathematical concepts\"}",
+    "tokens_used": 215,
+    "prompt_tokens": 191,
+    "completion_tokens": 24,
+    "cached_at": "2026-05-16T05:26:58+0900"
+  },
+  "f82e148b3e0e002dfaef04fc43e5783dae33f547fdaacf98d12d2a8ce8f67b9b": {
+    "ok": true,
+    "content": "{\"difficulty\": 9, \"level\": \"graduate\", \"reason\": \"uses advanced mathematical concepts and technical vocabulary from probability theory\"}",
+    "tokens_used": 224,
+    "prompt_tokens": 196,
+    "completion_tokens": 28,
+    "cached_at": "2026-05-16T05:27:00+0900"
+  },
+  "914e6157e80ebe777a0351f12239d79264fe20dd00d8ad6c7161991df6277518": {
+    "ok": true,
+    "content": "Let's break down each passage and explain it in a way that's easy to understand.\n\n### Passage 1: Water\nThis passage is about water. It says that water is made up of tiny things called molecules, and each molecule has two hydrogen atoms and one oxygen atom. That's why we call it H2O. Water can be a liquid, like the water you drink, a solid like ice, or a gas like steam. When you heat water, it turns into steam, and when you cool it, it turns into ice. This is a pretty simple concept, so let's move on to the next passage.\n\n### Passage 2: Plants\nThis passage is about plants. It says that plants need sunlight, water, and air to grow. Their leaves catch sunlight and use it to make food, which is called photosynthesis. The roots of the plant drink water from the soil, and plants also take in a gas called carbon dioxide from the air and give out oxygen, which people and animals need to breathe. This is a good introduction to how plants work, and it's not too hard to understand.\n\n### Passage 3: Cells\nThis passage is a bit more complicated. It says that all living things are made up of tiny things called cells. Some living things, like bacteria, have only one cell, while humans have trillions of cells. Each cell has a special covering called a membrane that controls what goes in and out of the cell. Inside the cell, there's a special part called the nucleus that contains DNA, which is like a set of instructions for the cell. There are also other parts called mitochondria that help the cell make energy. Let's break this down a bit more. Think of a cell like a house. The membrane is like the door that controls who comes in and out. The nucleus is like the boss of the house, and it tells the cell what to do. The mitochondria are like the power plants that make energy for the house.\n\n### Passage 4: Evolution\nThis passage is about something called natural selection. It's a bit more complicated, so let's start with something simple. Do you know how some animals are better at surviving in their environment than others? For example, some birds have strong beaks that help them crack open seeds, while others have weak beaks that can only eat soft foods. Natural selection is the idea that the animals that are best at surviving in their environment are more likely to have babies and pass on their traits to their offspring. Over time, this can lead to changes in the characteristics of a group of animals. For example, if a group of birds lives on an island where there are only seeds to eat, the birds with strong beaks are more likely to survive and have babies. After many generations, the birds on the island might all have strong beaks. This is kind of like how plants adapted to their environment in the second passage. Charles Darwin was a scientist who noticed that different animals on different islands had different traits, and he came up with the idea of natural selection to explain why this happens.",
+    "tokens_used": 1055,
+    "prompt_tokens": 426,
+    "completion_tokens": 629,
+    "cached_at": "2026-05-16T05:27:05+0900"
+  },
+  "488502675bee8305610c132e3db6480a6dfd0296123dfc39652e178ae3a17c4f": {
+    "ok": true,
+    "content": "Let's break down each passage and explain it in a way that's easy to understand.\n\n### Passage 1: Natural Selection\nThis passage is a bit challenging, but let's simplify it. So, you know how there are lots of different animals and plants in the world, right? And they all have special features that help them survive. Like how some birds have strong beaks to crack open seeds.\n\nWell, a long time ago, a scientist named Charles Darwin noticed that some birds on an island had different shaped beaks. And he realized that the birds with beaks that were better suited to finding food on that island were more likely to survive and have babies. Over time, this meant that more and more birds on the island had those special beaks.\n\nThis process is called natural selection. It's like a big filter that helps animals and plants that are best suited to their environment survive and thrive. And over many generations, it can lead to changes in the characteristics of a whole group of animals or plants.\n\n### Passage 2: Habitats\nThis passage is pretty easy, but it's still important. So, you know how animals need food, water, shelter, and space to live, right? A habitat is just a place where animals can find all those things. Like a pond is a habitat for frogs and fish, and a forest is a habitat for birds and deer.\n\nIf a habitat changes too much, it can be hard for animals to survive. For example, if a pond dries up, the frogs and fish might need to find a new home. But if a habitat is healthy and has everything animals need, it's a great place for them to live.\n\n### Passage 3: Plate Tectonics\nThis passage is a bit challenging, but let's break it down. So, you know how the Earth is made up of big pieces of land, right? Like continents and islands. Well, those pieces of land are actually floating on top of a softer, melted layer of rock called the mantle.\n\nAnd those pieces of land, called plates, are always moving, very slowly. Sometimes they bump into each other and create mountains. Sometimes they pull apart and create new land. And sometimes they slide past each other, which can cause earthquakes.\n\n### Passage 4: Fourier Analysis\nWhoa, this passage is way too hard for us. It's talking about some really advanced math concepts that are used in science and engineering. Don't worry if you don't understand it - it's not something you need to know right now. Just remember that scientists use special tools and math to understand and analyze the world around us. And that's what this passage is talking about, but in a very complicated way. Let's just move on and focus on some more fun and easy-to-understand topics.",
+    "tokens_used": 1012,
+    "prompt_tokens": 440,
+    "completion_tokens": 572,
+    "cached_at": "2026-05-16T05:27:10+0900"
+  },
+  "c4e1f511a93b3a87e89f510dee54d448835ec172cdc0962b918b2634e1ea5842": {
+    "ok": true,
+    "content": "I can see that these passages are quite advanced and might be difficult for an early elementary student to understand. Let's break them down into simpler concepts.\n\n**Passage 1: Fiber Bundles**\nImagine you have a big piece of paper that you can fold and twist. If you fold it in a special way, it can look like a long, curvy strip. This is kind of like a \"fiber bundle.\" It's a way of describing how things are connected, but it's a bit too complicated for us to understand right now. Let's just say that it's a math concept that helps us understand how shapes are connected and how they can be twisted and turned.\n\n**Passage 2: Adjunctions**\nThis passage is talking about something called \"categories\" and \"functors.\" These are big words that mean \"groups of things\" and \"ways of connecting groups of things.\" It's like having a bunch of boxes with different toys inside, and you have a special way of moving toys from one box to another. But it's all a bit too complicated for us to understand right now.\n\n**Passage 3: Homological Algebra**\nThis passage is talking about something called \"chain complexes\" and \"exact sequences.\" These are like big math puzzles that help us understand how things are connected. Imagine you have a bunch of blocks, and each block is connected to another block in a special way. This is kind of like what's being described here, but it's a bit too hard for us to understand right now.\n\n**Passage 4: Measure-Theoretic Probability**\nThis passage is talking about something called \"probability\" and \"random variables.\" Probability is like a game where you try to guess what might happen next. Imagine you have a coin, and you flip it. There's a 50% chance it will land on heads, and a 50% chance it will land on tails. This is kind of like what's being described here, but it's a bit too complicated for us to understand right now.\n\nLet's take a step back and talk about something simpler. What would you like to learn about? Maybe we can talk about shapes, or animals, or something else that's fun and easy to understand?",
+    "tokens_used": 988,
+    "prompt_tokens": 531,
+    "completion_tokens": 457,
+    "cached_at": "2026-05-16T05:27:14+0900"
+  },
+  "40b4c5e4feb4aab04fadb82d2275cd0c797135c2ca7bf7fa76e032c0cb9f30f1": {
+    "ok": true,
+    "content": "Let's break down each passage and explain it in a way that's easy to understand.\n\n### Passage 1: Water\nThis passage is about water. You might already know some of this, but let's go over it quickly. Water is made up of tiny things called molecules, and each molecule has two hydrogen atoms and one oxygen atom. That's why we call it H2O. Water can be a liquid (like the water you drink), a solid (like ice), or a gas (like steam). When you heat water, it turns into steam, and when you cool it down, it turns into ice. This is something you might have seen before, like when you breathe on a cold window and it fogs up, or when you ice a drink and the water turns into ice.\n\n### Passage 2: Plants\nThis passage is about plants. Plants are like superheroes that make their own food using sunlight, water, and air. They use their leaves to catch sunlight and make food, which is called photosynthesis. Their roots drink water from the soil, and they also take in a gas called carbon dioxide from the air. Then, they give out oxygen, which is really important for people and animals because we need oxygen to breathe. So, plants are kind of like the oxygen factories of the world.\n\n### Passage 3: Gravity\nThis passage is about gravity. Gravity is like a magic string that pulls everything towards each other. On Earth, gravity pulls us and everything else towards the ground. That's why you don't float off into space when you're standing on the ground. When you jump up, gravity pulls you back down to the ground. The Moon also has gravity, but it's not as strong as the Earth's gravity. That's why astronauts can jump higher on the Moon than they can on Earth.\n\n### Passage 4: Habitats\nThis passage is about habitats. A habitat is like a home for animals. Just like how you need a house to live in, animals need a place to live too. A pond is a habitat for frogs and fish, and a forest is a habitat for birds, deer, and insects. A good habitat gives animals the things they need to survive, like food, water, shelter, and space to move around. If a habitat changes too much, it can be bad for the animals that live there. They might need to move to a new home or they might not be able to survive. It's like if someone came and changed your house and neighborhood, you might need to move to a new place too.",
+    "tokens_used": 941,
+    "prompt_tokens": 417,
+    "completion_tokens": 524,
+    "cached_at": "2026-05-16T05:27:18+0900"
+  },
+  "bc17365ee07935d67e536de549240e7c2b60142f7b0984a84d370f244ce8291c": {
+    "ok": true,
+    "content": "Let's break down each passage:\n\nPassage 1: This one is pretty easy. You probably already know that water can be a liquid, ice, or steam. The important thing to remember is that water is made up of tiny particles called molecules, and each molecule has two hydrogen atoms and one oxygen atom. That's why we call it H2O. When you heat water, it turns into steam, and when you cool it, it turns into ice. This is a basic concept, so let's move on.\n\nPassage 2: This passage is also fairly straightforward. You might already know that plants need sunlight, water, and air to grow. The interesting part is how they use sunlight to make food, which is called photosynthesis. Plants also take in carbon dioxide and give out oxygen, which is important for humans and animals because we need oxygen to breathe. This is a good introduction to how plants work, but it's not too complicated, so let's keep going.\n\nPassage 3: Now we're getting into some more complex concepts. All living things are made up of tiny units called cells. Some living things, like bacteria, have only one cell, while humans have trillions of cells. Each cell has a special membrane that controls what goes in and out. Inside the cell, there's a nucleus that contains DNA, which is like a set of instructions for the cell. There are also tiny parts called mitochondria that help the cell make energy. This is a bit more advanced, but it's a good introduction to how cells work.\n\nPassage 4: This one is a bit more challenging. It's talking about a concept called natural selection, which is how living things adapt to their environment over time. The basic idea is that living things with traits that help them survive and reproduce are more likely to pass those traits on to their offspring. For example, if a bird has a beak shape that's good for eating a certain type of food, it's more likely to survive and have babies. Over many generations, this can lead to changes in the characteristics of a whole group of living things. This concept was first proposed by a scientist named Charles Darwin, who observed birds with different beak shapes on the Galapagos Islands. This is a more advanced concept, but it's an important one in science, so let's take a moment to understand it. Do you have any questions about it?",
+    "tokens_used": 919,
+    "prompt_tokens": 426,
+    "completion_tokens": 493,
+    "cached_at": "2026-05-16T05:27:22+0900"
+  },
+  "ec6453c3d33c5928fc9de60df195a03b44c1721b74e711397bcb159ec5ae72e8": {
+    "ok": true,
+    "content": "Let's break down each passage.\n\nPassage 1: This passage is about a concept called the central limit theorem. It's a bit too advanced for your level, but I'll try to simplify it. The central limit theorem is like a rule that helps us understand how groups of numbers behave. Imagine you have a big box of different colored balls, and each ball has a number on it. If you take a small handful of balls from the box and calculate the average number, it might not be the same as the average of all the balls in the box. But if you take many handfuls of balls and calculate the average each time, the averages will start to look similar. That's kind of what the central limit theorem says: that if you have a big enough group of numbers, the average will be close to the average of the whole group, even if the individual numbers are different. Don't worry too much about this passage, it's a bit too hard for now.\n\nPassage 2: This passage is about habitats, which is something you might already know about. It says that animals live in places called habitats, like ponds or forests, and that a good habitat provides food, water, shelter, and space. This is a pretty simple concept, so let's move on quickly. You probably already know that animals need these basic things to survive, and that different animals live in different habitats.\n\nPassage 3: This passage is about organic chemistry, which is the study of molecules that contain carbon. Carbon is a special atom that can form many different kinds of molecules, like chains, rings, and complex shapes. The passage also talks about something called functional groups, which are like special parts of a molecule that determine how it behaves. Imagine a molecule like a LEGO structure, and the functional groups are like special LEGO pieces that make the structure do certain things. This passage is a bit advanced, but it's not too hard to understand the basic idea. Let me know if you have any questions about it.\n\nPassage 4: This passage is about something called Fourier analysis, which is a way of breaking down complex signals into simpler parts. It's a bit like taking a big puzzle and breaking it down into smaller pieces that are easier to understand. The passage talks about something called sinusoidal modes, which are like waves that can be added together to make more complex signals. This passage is a bit too hard for now, so don't worry if you don't understand it. Just know that Fourier analysis is a tool that scientists use to understand complex signals and patterns.",
+    "tokens_used": 984,
+    "prompt_tokens": 461,
+    "completion_tokens": 523,
+    "cached_at": "2026-05-16T05:27:27+0900"
+  },
+  "3d11ba91a7d2b2c43522704b8d8100d648f25f1a3fb6d83bc4f1f6cbe5963f73": {
+    "ok": true,
+    "content": "I can see that these passages are quite advanced and might be difficult for a late elementary student to understand. Let's break them down into simpler concepts.\n\n**Passage 1: Fiber Bundles**\nImagine you have a big piece of paper that's rolled up into a cylinder. If you unroll it, you can see that it's just a flat piece of paper. But if you roll it up in a special way, like a M\u00f6bius strip, it can look different. A fiber bundle is like a big space that's made up of lots of smaller spaces, like the rolled-up paper. It can look different depending on how you \"roll it up\". Don't worry too much about the details, just remember that it's a way of describing complex spaces.\n\n**Passage 2: Adjunctions**\nThis passage is talking about something called categories, which are like groups of things that are related to each other. An adjunction is like a special connection between two groups of things. It helps us understand how things in one group are related to things in another group. Think of it like a bridge between two islands. The bridge helps you get from one island to the other, and it can also help you understand how the two islands are connected.\n\n**Passage 3: Homological Algebra**\nThis passage is talking about something called chain complexes, which are like big chains of numbers or objects. It's a way of studying how these chains are connected and how they can be broken down into smaller pieces. Imagine you have a big Lego castle, and you want to understand how all the Lego pieces fit together. Homological algebra is like a tool that helps you take the castle apart and see how all the pieces are connected.\n\n**Passage 4: Measure-Theoretic Probability**\nThis passage is talking about probability, which is like a way of measuring how likely something is to happen. It's using some big words like \"measure-theoretic\" and \"Radon-Nikodym derivative\", but don't worry too much about those. Just remember that it's a way of understanding how probability works, like flipping a coin or rolling a dice. It's trying to figure out the best way to predict what will happen in a random situation.\n\nOverall, these passages are quite advanced and might be hard to understand without some background knowledge of math and science. But I hope this explanation helps you get a basic idea of what they're talking about!",
+    "tokens_used": 1029,
+    "prompt_tokens": 531,
+    "completion_tokens": 498,
+    "cached_at": "2026-05-16T05:27:31+0900"
+  },
+  "f5b36cf36f29f4f26ae5b42895b30211ab6d68351e71aaea9265947c4a2cf511": {
+    "ok": true,
+    "content": "Let's break down each passage.\n\nPassage 1: This passage is about plants and what they need to grow. It's saying that plants need three main things: sunlight, water, and air. The sunlight helps plants make food, which is called photosynthesis. The roots of the plant drink water from the soil, and the plant also takes in a gas called carbon dioxide from the air. In return, plants give out oxygen, which is really important for humans and animals because we need it to breathe. This is a pretty basic concept, so let's move on.\n\nPassage 2: This passage is about cells, which are the tiny building blocks of all living things. It's saying that everything alive is made up of cells, and some living things, like humans, have trillions of cells. Each cell has a special membrane that controls what goes in and out of the cell. Inside the cell, there's a nucleus that contains DNA, which is like a set of instructions for the cell. The passage also talks about mitochondria, which are like the powerhouses of the cell, helping to produce energy. This concept might be a bit challenging, but it's a good introduction to cells.\n\nPassage 3: This passage is about evolution and how living things change over time. It's saying that when animals are born with traits that help them survive in their environment, they're more likely to live and have babies. This means that over many generations, the animals in a group will start to change and develop new characteristics. For example, if some birds have beaks that are better for eating a certain type of food, they'll be more likely to survive and have babies, and then their babies will have similar beaks. This concept can be a bit tricky, so let's break it down further. Imagine you have a group of birds, and some of them have big beaks while others have small beaks. If the birds with big beaks can eat more food, they'll be healthier and have more babies. Over time, the group of birds will have more and more birds with big beaks.\n\nPassage 4: This passage is about habitats, which are the places where animals live. It's saying that different animals live in different habitats, like ponds, forests, or deserts. A good habitat provides animals with the things they need to survive, like food, water, shelter, and space. If a habitat changes too much, some animals might not be able to survive, and they might need to move to a new habitat. This concept is pretty straightforward, so let's move on.",
+    "tokens_used": 956,
+    "prompt_tokens": 424,
+    "completion_tokens": 532,
+    "cached_at": "2026-05-16T05:27:36+0900"
+  },
+  "2e5c756f81328d3e3147a54ac7f917b8d8c445583497bb25127c7a1e10419f17": {
+    "ok": true,
+    "content": "Let's break down each passage and explain it in a way that's easy to understand.\n\n### Passage 1: Water\nThis passage is quite basic, but let's quickly cover the main points. Water is made up of tiny units called molecules, which consist of two hydrogen atoms and one oxygen atom. This is why water is often represented as H2O. Water can exist in three main states: liquid (the water you drink), solid (ice), and gas (steam). When you heat water, it turns into steam, and when you cool it, it turns into ice. This is a fundamental concept, so let's move on to the next passage.\n\n### Passage 2: Plants\nThis passage is also relatively straightforward. Plants need three main things to grow: sunlight, water, and air. They use sunlight to make food through a process called photosynthesis, which happens in their leaves. Plants absorb water through their roots and take in a gas called carbon dioxide from the air. In return, they release oxygen, which is essential for humans and animals to breathe. This is a basic concept in biology, so let's move on to the next passage.\n\n### Passage 3: Cells\nNow we're getting into some more complex biology. All living things, from tiny bacteria to humans, are made up of tiny units called cells. Some organisms, like bacteria, are made up of just one cell, while humans are made up of trillions of cells. Each cell has a membrane that controls what goes in and out, kind of like a border control. Inside the cell, there's a nucleus that contains DNA, which is like a blueprint or instructions for the cell. The cell also has tiny structures called mitochondria that help produce energy by breaking down glucose (a type of sugar) through a process called cellular respiration. Think of mitochondria like power plants that generate energy for the cell.\n\n### Passage 4: Evolution\nThis passage is a bit more advanced, but let's break it down. Evolution is the process by which living things change over time. One key mechanism of evolution is called natural selection. This means that organisms with traits that are better suited to their environment are more likely to survive and reproduce, passing those traits on to their offspring. Over many generations, this can lead to changes in the characteristics of a population. For example, Charles Darwin observed finches on the Galapagos Islands, where different species had evolved different beak shapes to eat different types of food. This is a fundamental concept in biology, and it helps explain how living things adapt to their environments over time.\n\nI hope these explanations help! Let me know if you have any questions or need further clarification on any of these topics.",
+    "tokens_used": 977,
+    "prompt_tokens": 426,
+    "completion_tokens": 551,
+    "cached_at": "2026-05-16T05:27:40+0900"
+  },
+  "8fd2985f261fa080ee16b39630abfe1f76366f557ef6026163c3fc82b1bdcfde": {
+    "ok": true,
+    "content": "Let's break down each passage.\n\n### Passage 1: Plants and Photosynthesis\nThis passage is quite easy, but I'll summarize it quickly. Plants need three main things to grow: sunlight, water, and air. They use sunlight to make food through a process called photosynthesis, which happens in their leaves. Their roots absorb water from the soil, and they take in carbon dioxide from the air while releasing oxygen that humans and animals need to breathe. This is a basic concept, so let's move on.\n\n### Passage 2: The Second Law of Thermodynamics\nThis passage is at your level, so let's dive in. The second law of thermodynamics talks about something called entropy, which is a measure of how disordered or random something is. Imagine you have a clean room (low entropy) and then you make a mess (high entropy). It's easier for the room to become messy than for it to clean itself, right? That's basically what the second law says: over time, things tend to become more disordered or random. This law explains why heat always moves from hotter objects to cooler ones and why it's impossible to build a machine that can keep moving forever without any energy input.\n\n### Passage 3: Quantum Mechanics\nThis passage is a bit more challenging. Quantum mechanics is a branch of physics that deals with very small things like atoms and particles. It says that these small things can be described using something called a wave function, which is like a mathematical recipe that tells us everything about the system. When we measure something in quantum mechanics, the wave function \"collapses\" into a specific state, which gives us a definite answer. Think of it like a coin that can be either heads or tails. Before you flip it, it's like the coin is in both states at the same time (that's the wave function). When you flip it and look, the coin \"collapses\" into either heads or tails. This is a complex topic, but the basic idea is that quantum mechanics helps us understand how the tiny building blocks of our world work.\n\n### Passage 4: Category Theory\nThis passage is quite advanced, so let's break it down into simpler concepts. Category theory is a branch of mathematics that studies how things are related to each other. Imagine you have different groups of objects, like animals or cars, and you want to understand how they connect to each other. Category theory uses something called functors to map one group to another. Think of a functor like a translator that helps us understand how things in one group correspond to things in another group. The passage talks about something called an adjunction, which is like a special kind of relationship between two groups. It's a bit like a mirror image, where one group reflects the other in a specific way. This concept is used in many areas of mathematics and computer science, but it's quite abstract and requires a strong mathematical background to fully understand.",
+    "tokens_used": 1077,
+    "prompt_tokens": 481,
+    "completion_tokens": 596,
+    "cached_at": "2026-05-16T05:27:45+0900"
+  },
+  "ad529fa6caf4caf3a6dd3672004f74a4c2f8b38275807fd5a5524039c7ee37c0": {
+    "ok": true,
+    "content": "I'd be happy to explain these passages to you. However, I notice that they are all at a graduate level, which might be challenging for a high school student. Let's break them down step by step.\n\n### Passage 1: Fiber Bundles\n\nThis passage is about a concept in topology called fiber bundles. Don't worry if you haven't heard of topology before; it's a branch of mathematics that studies the properties of shapes and spaces.\n\nImagine you have a big piece of paper that you can roll up into a cylinder. If you unroll it, you get a flat sheet again. Now, imagine that this paper has a special structure, like a pattern of lines or curves, that repeats as you move around the cylinder. A fiber bundle is like this, but instead of a simple pattern, it's a more complex structure that looks different at different points.\n\nThe key idea is that a fiber bundle has a \"base space\" (like the circle you get when you roll up the paper) and a \"fiber\" (like the pattern on the paper). The \"projection map\" is like a function that takes a point on the fiber bundle and maps it to a point on the base space.\n\nThe M\u00f6bius strip is an example of a fiber bundle. It's a strip of paper that's twisted and glued together in a special way, so that it has a strange topology. Don't worry if you don't understand the details; just remember that fiber bundles are a way of describing complex structures that have a simpler pattern locally, but a more complicated pattern globally.\n\n### Passage 2: Adjoint Functors\n\nThis passage is about a concept in category theory called adjoint functors. Category theory is a branch of mathematics that studies the relationships between different mathematical structures.\n\nImagine you have two categories, like two different types of objects. An adjoint functor is a pair of functors (like functions) that go between these two categories. One functor, called the \"left adjoint,\" maps objects from the first category to the second category, while the other functor, called the \"right adjoint,\" maps objects from the second category back to the first category.\n\nThe key idea is that these two functors are related in a special way, so that they \"encode\" certain properties of the categories. Adjoint functors are important in many areas of mathematics, including topology, algebra, and geometry.\n\nTo understand this passage, you need to have a basic understanding of category theory and functors. If you're not familiar with these concepts, don't worry; just remember that adjoint functors are a way of describing relationships between different mathematical structures.\n\n### Passage 3: Homological Algebra\n\nThis passage is about a branch of mathematics called homological algebra. Homological algebra is a way of studying algebraic objects, like groups and rings, using tools from topology and geometry.\n\nImagine you have a complex algebraic object, like a group or a ring. Homological algebra is a way of breaking down this object into simpler pieces, called \"chain complexes,\" and studying the relationships between these pieces.\n\nThe key idea is that these chain complexes can be used to compute certain invariants, like the \"Tor\" and \"Ext\" functors, which give information about the object. Spectral sequences are a way of organizing these computations, so that you can get a better understanding of the object's structure.\n\nTo understand this passage, you need to have a basic understanding of algebra and topology. If you're not familiar with these concepts, don't worry; just remember that homological algebra is a way of studying algebraic objects using tools from topology and geometry.\n\n### Passage 4: Measure-Theoretic Probability\n\nThis passage is about a branch of mathematics called measure-theoretic probability. Measure-theoretic probability is a way of studying random events and processes using tools from measure theory and functional analysis.\n\nImagine you have a random experiment, like flipping a coin or rolling a die. Measure-theoretic probability is a way of assigning a probability to each possible outcome, using a mathematical structure called a \"probability space.\"\n\nThe key idea is that this probability space can be used to define certain concepts, like conditional expectation and martingales, which give information about the behavior of the random process. Conditional expectation is like a weighted average of the possible outcomes, given certain information about the process.\n\nTo understand this passage, you need to have a basic understanding of probability and measure theory. If you're not familiar with these concepts, don't worry; just remember that measure-theoretic probability is a way of studying random events and processes using mathematical tools.\n\nOverall, these passages are quite challenging, and they require a strong background in mathematics. However, I hope this explanation has given you a sense of what each passage is about, and how they relate to different areas of mathematics.",
+    "tokens_used": 1514,
+    "prompt_tokens": 531,
+    "completion_tokens": 983,
+    "cached_at": "2026-05-16T05:27:50+0900"
+  },
+  "973c2a86d6ad466421eb252ec7918625d5ea643685082a19eb7fffb2abd710a3": {
+    "ok": true,
+    "content": "I'd be happy to explain these passages to you.\n\n### Passage 1: Cells\nThis passage is a basic introduction to cells, which is a fundamental concept in biology. It's saying that all living things are made up of tiny units called cells. Some living things, like bacteria, are made up of just one cell, while more complex organisms like humans are made up of trillions of cells.\n\nEach cell has a few important parts:\n- **Cell membrane**: This is like a protective barrier that controls what goes in and out of the cell.\n- **Nucleus**: This is the control center of the cell where DNA (genetic instructions) is stored.\n- **Mitochondria**: These are like the power plants of the cell, producing energy by breaking down glucose through a process called cellular respiration.\n\nThis is a pretty straightforward concept, so let's move on to the next passage.\n\n### Passage 2: Evolution\nThis passage talks about **natural selection**, a key concept in biology. It explains how living organisms adapt to their environment over many generations. The idea is that organisms with traits that are better suited to their environment are more likely to survive and reproduce, passing those traits on to their offspring.\n\nFor example, Charles Darwin observed finches on the Galapagos Islands and noticed that different finches had evolved different beak shapes to eat different types of food. This is a classic example of natural selection in action.\n\nThis concept is important for understanding how species evolve over time, so it's worth taking a moment to think about how it works.\n\n### Passage 3: Plate Tectonics\nThis passage introduces the concept of **plate tectonics**, which is a fundamental idea in geology. It explains that the Earth's outer layer (the lithosphere) is broken up into large plates that move slowly over the softer mantle below.\n\nWhen these plates interact, they can create different geological features:\n- **Mountains**: Form when plates collide.\n- **New crust**: Forms when plates pull apart and magma rises to fill the gap.\n- **Earthquakes**: Often happen when plates slide past each other along faults.\n\nThis concept helps us understand how the Earth's surface has changed over millions of years, so it's a useful idea to grasp.\n\n### Passage 4: The Periodic Table\nThis passage talks about the **periodic table**, a tool used in chemistry to organize elements. The periodic table arranges elements by their **atomic number** (the number of protons in the nucleus).\n\nElements in the same column (or group) often have similar properties because they have the same number of **valence electrons**. The periodic table also shows how elements are classified into different categories:\n- **Metals**: Mostly on the left side of the table.\n- **Nonmetals**: Mostly on the right side.\n- **Noble gases**: Stable elements in the last column.\n\nThis concept is a bit more advanced, but it's a crucial idea in chemistry. Understanding the periodic table helps us predict the properties and behavior of different elements.\n\nLet me know if you have any questions about any of these passages or if you'd like me to elaborate on any of these concepts!",
+    "tokens_used": 1082,
+    "prompt_tokens": 433,
+    "completion_tokens": 649,
+    "cached_at": "2026-05-16T05:27:55+0900"
+  },
+  "64d6b7fe24859076879a1f005a0e39e2bc312d7f91204aa4c91faf9bc299a118": {
+    "ok": true,
+    "content": "Let's break down each passage:\n\nPassage 1 (elem_water, difficulty=-2.0): \nThis passage is quite basic, but I'll summarize it quickly. Water is composed of molecules made up of two hydrogen atoms and one oxygen atom, hence the chemical formula H2O. Water can exist in three states: liquid, solid (ice), and gas (steam). The state of water changes with temperature, which is a fundamental concept in physics. You likely already know this, so let's move on.\n\nPassage 2 (elem_plants, difficulty=-1.5): \nSimilar to Passage 1, this passage covers basic concepts. Plants require sunlight, water, and air to grow, and they produce their own food through photosynthesis. They absorb carbon dioxide and release oxygen, which is essential for humans and animals. This is a fundamental concept in biology, but it's likely something you've already learned. Let's move on to more challenging topics.\n\nPassage 3 (middle_cells, difficulty=-0.5): \nNow we're getting into more advanced concepts. This passage explains that all living organisms are composed of cells, which are the basic building blocks of life. Each cell has a membrane that regulates what enters and leaves the cell. The nucleus contains DNA, which carries genetic instructions for the cell. Mitochondria are organelles responsible for producing energy through cellular respiration, which involves breaking down glucose. This is a crucial concept in biology, and it's essential to understand the structure and function of cells.\n\nTo elaborate, cellular respiration is the process by which cells generate energy from glucose. It involves several stages, including glycolysis, the citric acid cycle, and oxidative phosphorylation. Mitochondria play a critical role in this process, as they produce most of the energy that the cell needs to function. The nucleus, on the other hand, contains the cell's genetic material, which determines the cell's characteristics and functions.\n\nPassage 4 (middle_evolution, difficulty=-0.3): \nThis passage introduces the concept of natural selection, which is a fundamental mechanism of evolution. Natural selection occurs when organisms with traits that are better suited to their environment are more likely to survive and reproduce, passing those traits on to their offspring. Over many generations, this leads to changes in the characteristics of a population. The example of finches on the Galapagos Islands is a classic illustration of natural selection in action. Different beak shapes evolved to exploit different food sources, demonstrating how populations can adapt to their environments through the process of natural selection.\n\nTo expand on this concept, natural selection is a key driver of evolution, as it allows populations to adapt to changing environments and evolve new traits. It's a gradual process that occurs over many generations, and it's influenced by various factors, including genetic variation, environmental pressures, and genetic drift. Understanding natural selection is essential for understanding the diversity of life on Earth and how species have evolved over time.",
+    "tokens_used": 1032,
+    "prompt_tokens": 427,
+    "completion_tokens": 605,
+    "cached_at": "2026-05-16T05:27:59+0900"
+  },
+  "e623954a04c290e92025d7416cf69da1e91a61fff6c1a6da3e49405dc98540fd": {
+    "ok": true,
+    "content": "Let's break down each passage:\n\n### Passage 1 (elem_plants, difficulty=-1.5)\nThis passage is quite basic, so I'll just summarize it quickly. Plants require sunlight, water, and air to grow. They use sunlight to produce food through a process called photosynthesis, absorb water through their roots, and take in carbon dioxide while releasing oxygen. This is a fundamental concept in biology, but it's likely you already know this, so let's move on.\n\n### Passage 2 (high_thermo, difficulty=+0.5)\nThis passage discusses the second law of thermodynamics, which states that the total entropy (a measure of disorder or randomness) of an isolated system will always increase over time. Think of it like a messy room: it's easy for the room to become more messy (higher entropy), but it's hard for it to become tidy (lower entropy) on its own. This principle explains why heat flows from hot objects to cold objects and why it's impossible to build a machine that can keep moving forever without any external input. This concept is important in physics and chemistry, and it's likely at your level, so it's worth understanding.\n\nTo illustrate this concept, consider a cup of hot coffee. Over time, the coffee will lose heat to the surrounding air, becoming cooler. This process is spontaneous, meaning it happens on its own, and it increases the entropy of the system (the coffee and the air). It's unlikely that the coffee will suddenly become hotter without any external input, like a microwave or a heater.\n\n### Passage 3 (high_electro, difficulty=+0.8)\nThis passage is about Maxwell's equations, which describe the relationship between electricity and magnetism. The key idea is that a changing magnetic field can induce an electric field, and vice versa. This means that when a magnetic field is changing, it creates an electric field, and when an electric field is changing, it creates a magnetic field. These coupled fields can propagate through space as electromagnetic waves, which travel at the speed of light. This concept is fundamental to physics and engineering, and it's likely at your level, so let's dive deeper.\n\nTo understand this concept, imagine a coil of wire with an electric current flowing through it. As the current changes, it creates a changing magnetic field around the coil. This changing magnetic field, in turn, induces an electric field, which can cause a current to flow in another coil nearby. This is the basic principle behind many electrical devices, including transformers and generators.\n\n### Passage 4 (grad_topology, difficulty=+2.5)\nThis passage is quite advanced, so let's break it down step by step. A fiber bundle is a mathematical concept that describes a space that looks like a product space locally (i.e., it can be broken down into smaller, simpler pieces) but may have a different global structure. Think of it like a piece of fabric that looks smooth and flat when you zoom in, but has a complex, curved shape when you zoom out.\n\nThe passage mentions a few technical terms, like \"total space E\", \"base space B\", \"fiber F\", and \"projection map\". Don't worry too much about these terms; the key idea is that a fiber bundle is a way of describing a complex space in terms of simpler components.\n\nThe passage also mentions the Mobius strip, which is a famous example of a non-trivial line bundle. A line bundle is a type of fiber bundle where the fiber is a line (a one-dimensional space). The Mobius strip is a curved strip of paper that has a twist in it, so that if you start at one end and move along the strip, you'll eventually return to the starting point, but with the opposite orientation. This is an example of a non-trivial line bundle, meaning that it can't be simplified into a simpler space.\n\nFinally, the passage mentions principal bundles and gauge theory, which are advanced topics in mathematics and physics. These concepts are likely beyond your current level, so don't worry too much about them. The key idea is that fiber bundles are a powerful tool for describing complex spaces and structures, and they have many applications in physics and engineering.",
+    "tokens_used": 1322,
+    "prompt_tokens": 463,
+    "completion_tokens": 859,
+    "cached_at": "2026-05-16T05:28:05+0900"
+  },
+  "3a65b73857e27e2885e54790c5d4ea182b3a4a10c45472ed4c93bd7c0d3b9a5f": {
+    "ok": true,
+    "content": "I'd be happy to explain these passages to you. However, I must note that the difficulties listed are quite high, and the content may be challenging for an advanced high school student.\n\nLet's start with Passage 1. This passage discusses fiber bundles, which are a concept in topology. Don't worry if you're not familiar with topology; I'll break it down simply. \n\nA fiber bundle is like a bundle of strings, where each string represents a \"fiber.\" Imagine a big bundle of strings, where each string is connected to a point on a circle (the base space). If you look at a small part of the bundle, it might look like a simple product of the circle and the string. However, when you look at the whole bundle, it might have a more complicated structure. \n\nThe Mobius strip is an example of a non-trivial line bundle over a circle. It's a strip of paper with a twist, so if you follow a point on the strip around the circle, you'll end up on the other side of the strip. This is a simple example of a fiber bundle with a non-trivial global topology.\n\nThe passage also mentions principal bundles, which are important in physics, particularly in gauge theory and Yang-Mills fields. However, this is a more advanced topic, and we can move on to the next passage if you'd like.\n\nPassage 2 discusses adjunctions between categories, which is a concept in category theory. This is a fairly abstract topic, and it might be challenging to understand without some background in category theory. \n\nIn simple terms, an adjunction is a way of relating two categories (think of categories like sets of objects with certain properties). It's like a pair of functors (functions between categories) that work together to create a kind of \"bridge\" between the two categories. The passage mentions some examples of adjunctions, but these are quite advanced topics.\n\nLet's move on to Passage 3, which discusses homological algebra. This is another advanced topic that deals with algebraic objects and their structural invariants. \n\nIn simple terms, homological algebra studies how algebraic objects can be broken down into simpler components, like chains of groups or rings. It's a way of understanding the properties of these objects by looking at how they can be resolved into simpler parts. The passage mentions some technical terms like projective and injective resolutions, Tor and Ext, and spectral sequences. These are advanced concepts that might be difficult to understand without some background in algebra.\n\nFinally, Passage 4 discusses measure-theoretic probability, which is a branch of mathematics that deals with probability theory using measure theory. \n\nIn simple terms, measure-theoretic probability is a way of modeling random events using mathematical structures called probability spaces. The passage mentions some technical terms like conditional expectation, Radon-Nikodym derivative, and martingales. These are advanced concepts that might be challenging to understand without some background in probability theory and measure theory.\n\nOverall, these passages are quite advanced, and it might be helpful to review some of the underlying mathematical concepts before trying to understand them in detail. Would you like me to explain any of these topics in more detail or provide some background information to help you understand them better?",
+    "tokens_used": 1193,
+    "prompt_tokens": 532,
+    "completion_tokens": 661,
+    "cached_at": "2026-05-16T05:28:10+0900"
+  },
+  "23a28361c4132f4918142f8fb26a9fb9f86948c0f6d20d705efbf05f10358975": {
+    "ok": true,
+    "content": "Let's break down each passage.\n\n### Passage 1: The Second Law of Thermodynamics\nThis passage is at a moderate level of difficulty (+0.5). The concept of entropy and the second law of thermodynamics is fundamental in physics and chemistry. \n\nEntropy is a measure of disorder or randomness in a system. Imagine you have a deck of cards in order, and then you shuffle them. The shuffled deck has higher entropy because it's more disordered. The second law states that in an isolated system (one that doesn't exchange matter or energy with its surroundings), entropy always increases over time. This means that as energy is transferred or transformed, some of it becomes unavailable to do useful work because it becomes random and dispersed.\n\nFor example, when you burn gasoline in a car, the energy from the gasoline is converted into motion, but a lot of it is also wasted as heat. This heat increases the entropy of the surroundings. The principle explains why it's impossible to build a machine that can keep moving forever without any external input of energy (perpetual motion machine) and why heat always flows from hotter objects to cooler ones.\n\n### Passage 2: Maxwell's Equations\nThis passage is somewhat more challenging (+0.8). Maxwell's equations are a set of four fundamental equations in physics that describe how electricity and magnetism are related. \n\nThe key point here is that changing electric and magnetic fields can induce each other. This means if you have a magnetic field that's changing (like when you move a magnet), it can create an electric field. Similarly, a changing electric field (like when you turn on a light) can create a magnetic field. When these fields change, they propagate through space as electromagnetic waves, which include light, radio waves, and X-rays. All these types of waves travel at the speed of light.\n\nThis concept was revolutionary because it unified the previously separate theories of electricity and magnetism into a single, coherent theory of electromagnetism. It also predicted the existence of electromagnetic waves, which were later experimentally confirmed by Heinrich Hertz.\n\n### Passage 3: Organic Chemistry\nThis passage is at a high level of difficulty (+1.0), especially for those without a background in chemistry. Organic chemistry deals with compounds that contain carbon, which can form long chains, rings, and complex 3D structures because each carbon atom can form four covalent bonds.\n\nThe concept of functional groups is crucial. These are specific groups of atoms within a molecule that determine how the molecule reacts chemically. For example, alcohols, carboxylic acids, and amines are all types of functional groups that can be part of larger molecules. The arrangement of these groups and the overall structure of the molecule (including whether it has any branches or rings) can significantly affect its chemical properties.\n\nIsomers are molecules with the same molecular formula (same number and types of atoms) but differ in how these atoms are connected or arranged in space. This difference in structure can lead to significant differences in their chemical behavior, even though they have the same molecular formula.\n\n### Passage 4: Special Relativity\nThis passage is at the highest level of difficulty (+1.2) among the four. Special relativity, introduced by Albert Einstein, is based on two postulates: the laws of physics are the same for all observers in uniform motion relative to one another (inertial reference frames), and the speed of light in a vacuum is always constant, regardless of the motion of the observer or the source of light.\n\nThese principles lead to some counterintuitive consequences, such as time dilation and length contraction. Time dilation means that time appears to pass slower for an observer in motion relative to a stationary observer. Length contraction means that objects appear shorter to an observer in motion relative to a stationary observer. Additionally, two events that are simultaneous for one observer may not be simultaneous for another observer moving at a different velocity.\n\nThis theory challenged the long-held notions of absolute time and space and has been extensively experimentally confirmed. It's fundamental to understanding high-speed phenomena and the behavior of particles at or near the speed of light.",
+    "tokens_used": 1285,
+    "prompt_tokens": 447,
+    "completion_tokens": 838,
+    "cached_at": "2026-05-16T05:28:15+0900"
+  },
+  "235751c3c6d8f69a6e1b54b92b1a5b023d07536331927b486821ed3b5bdf6047": {
+    "ok": true,
+    "content": "Let's break down each passage:\n\n### Passage 1: Water Molecules\nThis passage is quite basic, but it's a good starting point. It explains that water is composed of molecules, each containing two hydrogen atoms and one oxygen atom, hence the chemical formula H2O. It also mentions the three states of water: liquid, solid (ice), and gas (steam), and how temperature changes can cause water to transition between these states. This is a fundamental concept in chemistry and physics, but it's likely something you're already familiar with, so let's move on.\n\n### Passage 2: Plant Growth\nThis passage is also relatively straightforward. It discusses the basic needs of plants, including sunlight, water, and air, and how they use these resources to grow. The process of photosynthesis is introduced, where plants convert sunlight into energy, taking in carbon dioxide and releasing oxygen as a byproduct. This is a crucial concept in biology, but it's presented in a simple way here. You probably already know this, so we can briefly acknowledge it and move on to more complex topics.\n\n### Passage 3: Cells\nNow we're getting into more interesting territory. This passage explains that all living organisms are composed of cells, which are the basic building blocks of life. It mentions that cells have a membrane that regulates what enters and leaves the cell, and that the nucleus contains DNA, which carries genetic information. Additionally, it introduces mitochondria, which are organelles responsible for generating energy for the cell through cellular respiration. This is a key concept in biology, and it's likely at your level, so let's take a moment to ensure you understand it. Do you have any questions about cells or their components?\n\n### Passage 4: Evolution through Natural Selection\nThis passage delves into the concept of evolution, specifically the mechanism of natural selection. It explains how organisms with traits better suited to their environment are more likely to survive and reproduce, leading to changes in the population over time. The example of finches on the Galapagos Islands is used to illustrate how different beak shapes evolved to adapt to various food sources. This is a fundamental concept in biology and evolutionary theory. It's likely at your level, so let's take some time to discuss it. Do you have any questions about natural selection or evolution? \n\nWhich of these passages would you like me to expand upon or clarify further?",
+    "tokens_used": 914,
+    "prompt_tokens": 425,
+    "completion_tokens": 489,
+    "cached_at": "2026-05-16T05:28:19+0900"
+  },
+  "8cfb8123ec3371986432feb3de785932c0142f8b5fc3f8ada64f9b34c78ca3d4": {
+    "ok": true,
+    "content": "I'd be happy to explain these passages to you.\n\n### Passage 1: Water Molecules\nThis passage is quite basic, so let's quickly cover it. Water is indeed composed of molecules, each consisting of two hydrogen atoms and one oxygen atom, hence the chemical formula H2O. Water can exist in three main states: liquid (water), solid (ice), and gas (steam). The transition between these states occurs with changes in temperature: heating water turns it into steam, and cooling it turns it into ice. This is a fundamental concept in physics and chemistry, but it's introductory level, so let's move on.\n\n### Passage 2: Maxwell's Equations and Electromagnetism\nThis passage is at a higher level but still accessible. Maxwell's equations are a set of four equations that form the foundation of classical electromagnetism. They describe how electric and magnetic fields interact and how they propagate through space. A key concept here is that a changing magnetic field can induce an electric field, and vice versa. This interaction leads to the formation of electromagnetic waves, which travel at the speed of light. This theory was crucial because it unified the previously separate theories of electricity and magnetism into a single, coherent framework. It also predicted that light is a form of electromagnetic wave, a prediction that was later experimentally confirmed by Heinrich Hertz. This understanding is fundamental in physics and engineering, especially in the study of light, radio waves, and other electromagnetic phenomena.\n\n### Passage 3: Animal Habitats\nSimilar to Passage 1, this passage covers basic concepts. An animal's habitat is its natural environment where it lives. Different habitats, such as ponds, forests, or deserts, support different types of animals. A good habitat must provide the basic necessities for life: food, water, shelter, and space. If a habitat undergoes significant changes, it can become less suitable for certain species, potentially forcing them to migrate or face extinction. This is an introductory concept in biology and ecology, focusing on the relationship between organisms and their environment.\n\n### Passage 4: Measure-Theoretic Probability\nThis passage is quite advanced, dealing with complex mathematical concepts in probability theory. Let's break it down into simpler components:\n- **Probability Space**: This is a mathematical construct used to describe chance events. It consists of a set of outcomes, a set of events (which are sets of outcomes), and a probability measure that assigns a probability to each event.\n- **Random Variables**: These are functions that assign a numerical value to each outcome in a probability space. They are used to model quantities whose values are determined by chance.\n- **Conditional Expectation**: This is a concept that extends the idea of expectation (or average value) to situations where we have some additional information. It's defined using the Radon-Nikodym derivative, which is a way of differentiating one measure with respect to another.\n- **Martingales**: These are sequences of random variables that model fair games or processes where the expected value at any time is the same as the value at the previous time, given the information available up to that point.\n- **Convergence Theorems**: These are mathematical results that describe under what conditions sequences of random variables will converge to a limit. They are crucial for understanding the long-term behavior of stochastic processes.\n\nThis passage assumes a strong background in mathematical probability and measure theory, making it challenging for those without such a foundation. If you're not familiar with these concepts, it might be helpful to start with introductory texts on probability theory and measure theory before diving into this level of complexity.",
+    "tokens_used": 1180,
+    "prompt_tokens": 449,
+    "completion_tokens": 731,
+    "cached_at": "2026-05-16T05:28:25+0900"
+  },
+  "fd07f86c61ffaa1e2d9c45e935726da8ef3ec1cda5326f5da08b8c30bb9d2c7d": {
+    "ok": true,
+    "content": "I'd be happy to explain these passages to you. However, I notice that they appear to be quite advanced, with difficulties ranging from +2.5 to +3.2. Let's break them down step by step.\n\n### Passage 1: Fiber Bundles\n\nThis passage is about a concept in topology called fiber bundles. Don't worry if you're not familiar with topology; I'll start with the basics.\n\n**What is a fiber bundle?**\n\nImagine you have a space that looks like a product of two simpler spaces, but only locally. Think of a piece of paper that's been rolled up into a cylinder. If you look at a small part of the cylinder, it looks like a flat rectangle (a product of two lines). But if you look at the whole cylinder, it's not just a flat rectangle; it's curved.\n\nA fiber bundle is like this, but more general. It consists of:\n\n* A **total space** (E)\n* A **base space** (B)\n* A **fiber** (F)\n* A **projection map** that takes points in the total space to points in the base space\n\nThe key property is that the projection map is **locally trivial**, meaning that if you look at a small part of the total space, it looks like a product of the base space and the fiber.\n\n**Example: The M\u00f6bius Strip**\n\nThe M\u00f6bius strip is a famous example of a non-trivial line bundle over a circle. Imagine a strip of paper that's been glued together in a loop, but with a twist. If you follow a point on the strip as it moves around the loop, you'll see that it ends up on the \"other side\" of the strip. This is a simple example of a fiber bundle that's not just a product space.\n\n**Principal Bundles and Gauge Theory**\n\nPrincipal bundles are a special type of fiber bundle where the fiber is a group (called a Lie group) that acts freely on the total space. These are important in physics, particularly in gauge theory and the study of Yang-Mills fields. Don't worry if this sounds unfamiliar; it's a advanced topic that requires a strong background in physics and mathematics.\n\n### Passage 2: Adjunctions\n\nThis passage is about a concept in category theory called adjunctions. Category theory is a branch of mathematics that studies the commonalities between different mathematical structures.\n\n**What is an adjunction?**\n\nAn adjunction is a relationship between two categories (C and D) that consists of:\n\n* Two functors: F (from C to D) and G (from D to C)\n* A natural isomorphism between the sets of morphisms (called hom-sets) between objects in C and D\n\nThe functor F is called the **left adjoint**, and G is called the **right adjoint**.\n\n**What does this mean?**\n\nIn simple terms, an adjunction is a way of relating two categories in a way that preserves certain properties. It's like a \"bridge\" between two different mathematical structures.\n\n**Examples**\n\nAdjunctions appear in many areas of mathematics, including:\n\n* Free-forgetful pairs (e.g., the relationship between groups and sets)\n* Tensor-hom pairs (e.g., the relationship between vector spaces and their duals)\n* Galois connections (e.g., the relationship between topology and algebra)\n\nThese are all advanced topics, but the basic idea is that adjunctions help us understand the relationships between different mathematical structures.\n\n### Passage 3: Homological Algebra\n\nThis passage is about a branch of mathematics called homological algebra. Homological algebra studies the properties of algebraic objects using tools from topology and algebra.\n\n**What is homological algebra?**\n\nHomological algebra is concerned with the study of **chain complexes**, which are sequences of algebraic objects (like groups or modules) with certain properties. It also studies **exact sequences**, which are sequences of algebraic objects that satisfy certain conditions.\n\n**What are derived functors?**\n\nDerived functors are a way of extending functors (like Hom or Tensor) to chain complexes. They help us compute certain invariants of algebraic objects, like Tor and Ext.\n\n**Projective and Injective Resolutions**\n\nThese are techniques for replacing an algebraic object with a \"better\" one that's easier to work with. This allows us to compute derived functors and other invariants.\n\n**Spectral Sequences**\n\nSpectral sequences are a way of organizing the information in a chain complex. They help us compute the homology of a complex by breaking it down into smaller pieces.\n\n### Passage 4: Measure-Theoretic Probability\n\nThis passage is about a branch of mathematics called measure-theoretic probability. Measure-theoretic probability is a way of studying probability theory using tools from measure theory.\n\n**What is a probability space?**\n\nA probability space is a mathematical object that consists of:\n\n* A set of outcomes (called a sample space)\n* A sigma-algebra (a collection of subsets of the sample space)\n* A measure (a way of assigning probabilities to subsets of the sample space)\n\n**What is conditional expectation?**\n\nConditional expectation is a way of defining the expected value of a random variable given some additional information. It's defined using the Radon-Nikodym derivative, which is a way of computing the density of one measure with respect to another.\n\n**Martingales and Convergence Theorems**\n\nMartingales are a type of stochastic process that satisfies certain properties. Convergence theorems, like the dominated convergence theorem and the optional stopping theorem, help us understand the limiting behavior of stochastic processes.\n\nI hope this helps! Let me know if you have any specific questions or if you'd like me to elaborate on any of these topics.",
+    "tokens_used": 1712,
+    "prompt_tokens": 530,
+    "completion_tokens": 1182,
+    "cached_at": "2026-05-16T05:28:31+0900"
+  },
+  "3460cb02b35dd28492b9f961c644d868645041007fe60ed6b46b9032297c3e3e": {
+    "ok": true,
+    "content": "I'd be happy to explain these passages to you.\n\n### Passage 1: Quantum Mechanics\nThis passage is about the basics of quantum mechanics. Let's break it down:\n- **Wave function**: This is a mathematical description of the state of a quantum system. Think of it like a map that shows all the possible states a system can be in.\n- **Schrodinger equation**: This is an equation that describes how the wave function changes over time. It's like a rule that tells us how the map of possible states evolves.\n- **Born rule**: This is a way to interpret the wave function. It says that the square of the wave function (at a particular point) tells us the probability of finding the system in that state.\n- **Measurement and collapse**: When we measure a quantum system, its wave function \"collapses\" to one of the possible states. The probability of collapsing to a particular state is determined by how much the original wave function overlaps with that state.\n\nThis passage is at a moderate level of difficulty, but the concepts are fundamental to quantum mechanics. If you're new to quantum mechanics, it might take some time to fully understand these ideas.\n\n### Passage 2: Statistics\nThis passage is about the central limit theorem (CLT) in statistics. Here's what it's saying:\n- **Central limit theorem**: This theorem states that if you take a large enough sample from any population, the average of that sample will be approximately normally distributed. This is true even if the population itself is not normally distributed.\n- **Sampling distribution**: This refers to the distribution of sample means (or other statistics) that you would get if you took many different samples from the same population.\n- **Rate of convergence**: This refers to how quickly the sampling distribution approaches a normal distribution as the sample size increases. The Berry-Esseen theorem provides a way to estimate this rate of convergence.\n\nThe CLT is a crucial concept in statistics, and this passage assumes you have some background knowledge of statistical concepts like sampling distributions and hypothesis testing.\n\n### Passage 3: General Relativity\nThis passage is about the mathematical framework of general relativity. Let's break it down:\n- **Metric tensor**: This is a mathematical object that describes the geometry of spacetime. It's like a set of instructions that tells us how to measure distances and angles in spacetime.\n- **Christoffel symbols**: These are mathematical objects that describe how the coordinate system changes from one point to another. They're used to define the covariant derivative, which is a way of differentiating tensors (mathematical objects that describe physical quantities) in a way that respects their transformation properties.\n- **Riemann tensor**: This is a mathematical object that describes the curvature of spacetime. It's a way of measuring how much spacetime is bent or curved at a given point.\n- **Einstein's equation**: This is a fundamental equation in general relativity that relates the curvature of spacetime (described by the Riemann tensor) to the distribution of mass and energy (described by the stress-energy tensor).\n\nThis passage is at a higher level of difficulty, as it assumes a strong background in mathematical physics and differential geometry. If you're new to general relativity, you may need to start with some simpler concepts before tackling this passage.\n\n### Passage 4: Fourier Analysis\nThis passage is about the basics of Fourier analysis. Here's what it's saying:\n- **Fourier series**: This is a way of representing a periodic function (a function that repeats itself at regular intervals) as a sum of sinusoidal functions (functions that oscillate at specific frequencies).\n- **Fourier transform**: This is a way of extending the idea of Fourier series to non-periodic functions. It converts a function from the time domain (where we describe the function in terms of time) to the frequency domain (where we describe the function in terms of frequency).\n- **Convolution and multiplication**: The Fourier transform has a useful property: it converts convolution (a way of combining two functions) in the time domain into multiplication in the frequency domain. This makes it a powerful tool for signal processing and other applications.\n\nThis passage is at a moderate to high level of difficulty, as it assumes some background knowledge of mathematical analysis and signal processing. However, the concepts are fundamental to many areas of physics and engineering, so it's worth taking the time to understand them.",
+    "tokens_used": 1374,
+    "prompt_tokens": 477,
+    "completion_tokens": 897,
+    "cached_at": "2026-05-16T05:28:36+0900"
+  },
+  "91d341974aad427518de90d20249c4489b63c6fa3b0032f9fc3fbf36f7c8608a": {
+    "ok": true,
+    "content": "Let's go through each passage.\n\nPassage 1 (elem_water, difficulty=-2.0): \nThis passage is quite basic, covering the fundamental composition and states of water. As a graduate researcher, you're likely already familiar with this information. To summarize, water is composed of two hydrogen atoms and one oxygen atom (H2O), and it can exist in three states: liquid, solid (ice), and gas (steam). The passage also mentions the effects of temperature on these state changes. Since this is elementary-level content, let's move on quickly.\n\nPassage 2 (elem_plants, difficulty=-1.5): \nSimilar to Passage 1, this content is also introductory and covers the basic needs of plants, including sunlight, water, and air. It touches on photosynthesis, the process by which plants produce food using sunlight, and mentions the exchange of carbon dioxide and oxygen. Again, as a graduate researcher, you're likely well-versed in these concepts, so we can briefly acknowledge this and proceed.\n\nPassage 3 (middle_cells, difficulty=-0.5): \nNow we're getting into more intermediate-level content. This passage discusses the basic structure and function of cells, which are the building blocks of all living organisms. It mentions the cell membrane, nucleus, and mitochondria, as well as the processes of cellular respiration and the role of DNA in carrying genetic instructions. While you may already be familiar with these concepts, it's worth noting that this passage provides a solid foundation for understanding more complex cellular processes. If you'd like, we can delve deeper into cellular biology, exploring topics like cell signaling, membrane transport, or the regulation of gene expression.\n\nPassage 4 (middle_evolution, difficulty=-0.3): \nThis passage introduces the concept of natural selection, a fundamental mechanism driving evolutionary change. It explains how organisms with traits better suited to their environment are more likely to survive and reproduce, leading to changes in population characteristics over time. The example of the Galapagos finches is a classic illustration of adaptive radiation, where different species emerge as a result of exploiting distinct resources. As a graduate researcher, you may be interested in exploring more advanced topics in evolution, such as the molecular mechanisms underlying adaptation, the role of genetic drift, or the interactions between species and their environments. Would you like to discuss these topics further?",
+    "tokens_used": 908,
+    "prompt_tokens": 425,
+    "completion_tokens": 483,
+    "cached_at": "2026-05-16T05:28:41+0900"
+  },
+  "4fa2c82fa263324d5daad2421f08a4da66cb932514226cc2f31ec239098122b9": {
+    "ok": true,
+    "content": "I'll break down each passage for you, considering your level as a graduate researcher.\n\n### Passage 1: Second Law of Thermodynamics\nThis passage discusses a fundamental concept in thermodynamics that you're likely already familiar with. The second law of thermodynamics states that the total entropy of an isolated system always increases over time. Entropy is a measure of disorder or randomness in a system. The principle explains why heat flows from hotter to colder objects and why perpetual motion machines are impossible. Since this is a basic concept, let's quickly move on. The key takeaway is that entropy always increases in isolated systems, which is a foundational principle in understanding thermodynamic processes.\n\n### Passage 2: Maxwell's Equations\nMaxwell's equations are a cornerstone of electromagnetism, unifying electricity and magnetism. The passage highlights how changing magnetic fields induce electric fields and vice versa, leading to the propagation of electromagnetic waves at the speed of light. This concept is crucial for understanding how light and other electromagnetic phenomena work. Given your background, you're probably well-versed in these principles, but it's worth noting that Maxwell's equations are a fundamental framework for understanding a wide range of electromagnetic phenomena, from radio waves to light.\n\n### Passage 3: Quantum Mechanics\nThis passage delves into quantum mechanics, discussing how the state of a system is described by a wave function that evolves according to the Schr\u00f6dinger equation. The Born rule is mentioned, which interprets the squared modulus of the wave function as a probability density. The concept of wave function collapse upon measurement is also introduced, leading to definite outcomes with probabilities determined by the projection of the state onto an eigenstate. This is a more advanced topic, but as a graduate researcher, you should have a solid foundation in quantum mechanics. The key points here are the role of the wave function, the Schr\u00f6dinger equation, and the principles of measurement and wave function collapse.\n\n### Passage 4: Special Relativity\nSpecial relativity is based on two postulates: the laws of physics are invariant in all inertial frames, and the speed of light is constant for all observers. These principles lead to time dilation and length contraction, and they affect how events are perceived by different observers. For instance, two events that are simultaneous for one observer may not be simultaneous for another observer in a different inertial frame. This passage touches on foundational aspects of special relativity, which you're likely familiar with. However, it's always useful to reinforce these concepts, as they underpin much of modern physics, especially when considering high-speed phenomena or astronomical observations.\n\nGiven your level as a graduate researcher, these passages should serve more as a review or a quick reference rather than an introduction to new concepts. Each of these areas\u2014thermodynamics, electromagnetism, quantum mechanics, and relativity\u2014forms a critical part of the foundation of modern physics, and a deep understanding of these principles is essential for advancing in your research.",
+    "tokens_used": 1046,
+    "prompt_tokens": 445,
+    "completion_tokens": 601,
+    "cached_at": "2026-05-16T05:28:46+0900"
+  },
+  "6ee770a3f34880dfcdb063b0d555267357c31fb79c5a8a94313cc4d75cadaeb9": {
+    "ok": true,
+    "content": "I'll break down each passage for you, considering your graduate researcher level.\n\n### Passage 1: Fiber Bundles\n\nThis passage discusses fiber bundles, which are mathematical structures that combine a base space and a fiber space in a way that's locally trivial but can have non-trivial global topology. \n\n- **Total Space (E), Base Space (B), and Fiber (F):** Think of a total space E as a collection of fibers F, where each point in the base space B corresponds to a specific fiber. The projection map sends each point in E to its corresponding point in B.\n- **Locally Trivial:** This means that if you look at a small enough neighborhood around any point in the base space, the total space looks like the product of that neighborhood and the fiber. However, globally, the structure can be more complex.\n- **Mobius Strip Example:** The Mobius strip is a simple example of a non-trivial line bundle over a circle. It's a strip with a twist, so if you follow a point around the circle, you end up on the \"other side\" of the strip, illustrating a non-trivial topology.\n- **Principal Bundles and Gauge Theory:** Principal bundles are a special case where the fiber is a Lie group acting freely. These are crucial in gauge theory and the geometric formulation of Yang-Mills fields, which are important in physics for describing fundamental forces.\n\nThis concept is at your level, but it might be a quick review or introduction, depending on your background in topology.\n\n### Passage 2: Adjunctions in Category Theory\n\nThis passage introduces adjunctions between categories, which is a fundamental concept in category theory.\n\n- **Adjunction:** An adjunction between two categories C and D consists of two functors, F: C \u2192 D and G: D \u2192 C, along with a natural isomorphism between the sets of morphisms Hom(F(c), d) and Hom(c, G(d)) for all objects c in C and d in D.\n- **Left and Right Adjoint:** F is called the left adjoint, and G is the right adjoint. This relationship encodes universal properties, meaning it describes how these functors relate objects in C and D in a way that's optimal or canonical.\n- **Examples:** Adjunctions appear in various contexts, such as free-forgetful pairs (e.g., the free group generated by a set), tensor-hom adjunction (relating tensor products and hom sets), and the Galois connection (which relates subgroups of a group to subfields of a field).\n\nThis passage is slightly more challenging but should be accessible with your graduate level understanding of category theory.\n\n### Passage 3: Homological Algebra\n\nThis passage delves into homological algebra, which studies algebraic structures using tools like chain complexes and derived functors.\n\n- **Chain Complexes and Exact Sequences:** A chain complex is a sequence of modules and homomorphisms where the composition of any two consecutive homomorphisms is zero. Exact sequences are chain complexes where the image of one homomorphism equals the kernel of the next.\n- **Projective and Injective Resolutions:** These are ways to replace an object with a \"nicer\" chain complex that's either projective or injective, making it easier to compute certain functors like Tor and Ext.\n- **Spectral Sequences:** These are tools for computing homology by filtering a complex and iteratively approximating its homology. They're particularly useful for revealing information that's not accessible from a single exact sequence.\n\nThis passage is at a higher level of difficulty but is foundational for understanding many advanced topics in algebra and geometry.\n\n### Passage 4: Measure-Theoretic Probability\n\nThis passage discusses measure-theoretic probability, which provides a rigorous framework for probability theory using measure theory.\n\n- **Probability Space and Random Variables:** A probability space consists of a set of outcomes, a sigma-algebra of events, and a probability measure. Random variables are measurable functions from this space to the real numbers.\n- **Conditional Expectation:** This is defined as the Radon-Nikodym derivative with respect to a sub-sigma-algebra, giving the best approximation of a random variable given certain information.\n- **Martingales:** A martingale is a sequence of random variables where the conditional expectation of the next variable, given all previous ones, is equal to the current variable. This models a \"fair game\" where the expected value of the next step is the current value.\n- **Convergence Theorems:** Theorems like the dominated convergence theorem and the optional stopping theorem provide conditions under which sequences of random variables converge, allowing for rigorous analysis of stochastic processes.\n\nThis passage is at a high level of difficulty, assuming a strong background in measure theory and probability. It's foundational for advanced topics in stochastic processes and mathematical finance.\n\nEach of these passages touches on advanced mathematical concepts. Depending on your specific background and interests, some may be more relevant or challenging than others.",
+    "tokens_used": 1552,
+    "prompt_tokens": 530,
+    "completion_tokens": 1022,
+    "cached_at": "2026-05-16T05:28:52+0900"
+  },
+  "152e5ac46590bc444797c3cdb8c720e48c38470a47e0766787457c9dae77240f": {
+    "ok": true,
+    "content": "I'll break down each passage for you.\n\n### Passage 1: Fiber Bundles\n\nThis passage discusses fiber bundles, a concept in topology. Don't worry if it seems a bit familiar; it's a fundamental idea in graduate-level topology. \n\nA fiber bundle is essentially a space that, when looked at locally, resembles a product space (think of a Cartesian product of two spaces), but its global structure can be quite different. Formally, it consists of:\n\n1. **Total space E**: The entire space we're considering.\n2. **Base space B**: A space that serves as the \"base\" for our bundle.\n3. **Fiber F**: A space that is \"attached\" to each point in the base space.\n4. **Projection map**: A map that takes points in the total space back to the base space, which is locally trivial (meaning it looks like a product space locally).\n\nThe M\u00f6bius strip is given as an example of a non-trivial line bundle over a circle. This means that if you try to \"unroll\" the M\u00f6bius strip, you'll find that it has a twist, which affects its global topology.\n\nPrincipal bundles, where the fiber is a Lie group (a group with a smooth structure), are crucial in gauge theory and the study of Yang-Mills fields. This is a bit more advanced, but essentially, it's about how these bundles help describe symmetries in physics.\n\n### Passage 2: Adjunctions\n\nThis passage is about adjunctions in category theory, which might be a bit challenging. \n\nAn adjunction is a relationship between two functors (functions between categories) that go in opposite directions. Specifically, it consists of:\n\n1. **Functor F: C \u2192 D**: A functor from category C to category D.\n2. **Functor G: D \u2192 C**: A functor from category D to category C.\n3. **Natural isomorphism**: A way of identifying the sets of morphisms (Hom-sets) between objects in C and D, such that the morphisms in C correspond to morphisms in D, and vice versa.\n\nThe functor F is called the left adjoint, and G is the right adjoint. Adjunctions are important because they encode universal properties, which means they describe how objects in one category relate to objects in another category in a way that's optimal or canonical.\n\nExamples of adjunctions include free-forgetful pairs, tensor-hom pairs, and the Galois connection between topology and algebra. These are all instances where adjunctions help us understand the relationships between different mathematical structures.\n\n### Passage 3: Homological Algebra\n\nThis passage is about homological algebra, which is a branch of mathematics that studies algebraic structures using tools from topology. \n\nHomological algebra focuses on:\n\n1. **Chain complexes**: Sequences of algebraic objects (like groups or modules) with maps between them.\n2. **Exact sequences**: Sequences of algebraic objects where the image of one map is the kernel of the next.\n3. **Derived functors**: Functors that take algebraic objects and produce new objects that encode information about the original objects.\n\nThe passage mentions projective and injective resolutions, which are ways of replacing an algebraic object with a more convenient complex that's easier to work with. This allows us to compute functors like Tor and Ext, which provide information about the object's structure.\n\nSpectral sequences are also mentioned, which are a way of organizing successive approximations to homology (a measure of the \"holes\" in an algebraic object) through filtered complexes. This helps reveal information that might be hard to access otherwise.\n\n### Passage 4: Measure-Theoretic Probability\n\nThis passage is about measure-theoretic probability, which is a rigorous framework for studying probability theory using measure theory. \n\nIn this framework, random variables are modeled as measurable functions on a probability space. The passage mentions:\n\n1. **Conditional expectation**: A way of defining the expected value of a random variable given some partial information, using the Radon-Nikodym derivative.\n2. **Martingales**: A type of stochastic process that formalizes the concept of a \"fair game\" through adapted filtrations (a way of modeling the flow of information over time).\n3. **Convergence theorems**: Results like the dominated convergence theorem and the optional stopping theorem, which provide control over the limiting behavior of stochastic processes.\n\nThese concepts are fundamental in probability theory and are used to model and analyze random phenomena in a wide range of fields, from finance to physics.\n\nLet me know if you'd like me to elaborate on any of these passages or if you have specific questions!",
+    "tokens_used": 1488,
+    "prompt_tokens": 530,
+    "completion_tokens": 958,
+    "cached_at": "2026-05-16T05:28:58+0900"
+  },
+  "ebae301b6fa682eb5423bc89ddc832b09dba9544dada33255c7f90dc283a5abc": {
+    "ok": true,
+    "content": "{\"winner\": \"A\", \"confidence\": 5, \"reason\": \"Explanation A uses simple language and relatable examples to explain scientific concepts, making it more suitable for early elementary students.\"}",
+    "tokens_used": 1185,
+    "prompt_tokens": 1144,
+    "completion_tokens": 41,
+    "cached_at": "2026-05-16T05:29:01+0900"
+  },
+  "84ad0f648d0b9ae32ee5f2c09de1218b919c5172da0a1fccce0623aff0805357": {
+    "ok": true,
+    "content": "{\"winner\": \"A\", \"confidence\": 5, \"reason\": \"Explanation A uses simple language and relatable examples to explain scientific concepts, making it more suitable for early elementary students.\"}",
+    "tokens_used": 1185,
+    "prompt_tokens": 1144,
+    "completion_tokens": 41,
+    "cached_at": "2026-05-16T05:29:04+0900"
+  },
+  "ca56a6c0a0e3258a2a5c5780a7e1d6b1fa5417585c3be4067376ecfd0445521e": {
+    "ok": true,
+    "content": "{\"winner\": \"B\", \"confidence\": 5, \"reason\": \"Explanation B uses relatable concepts and builds on prior knowledge\"}",
+    "tokens_used": 1173,
+    "prompt_tokens": 1144,
+    "completion_tokens": 29,
+    "cached_at": "2026-05-16T05:29:08+0900"
+  },
+  "879a2fb3678ff18313d610240cc5848f44d01c4985232cadd43dbdf749643d22": {
+    "ok": true,
+    "content": "{\"winner\": \"B\", \"confidence\": 4, \"reason\": \"Explanation B uses more relatable examples and builds on prior knowledge, making it more suitable for early elementary students\"}",
+    "tokens_used": 1298,
+    "prompt_tokens": 1259,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T05:29:11+0900"
+  },
+  "1a87df6ce736c7352012c033fa5ddc0be346b461ecdc201c92f306ad11ebe610": {
+    "ok": true,
+    "content": "{\"winner\": \"B\", \"confidence\": 4, \"reason\": \"Explanation B uses more relatable examples and builds on prior knowledge, making it more suitable for early elementary students\"}",
+    "tokens_used": 1298,
+    "prompt_tokens": 1259,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T05:29:14+0900"
+  },
+  "ffe62ada3f1a7be6c368dcde36ae712021792ed51307a95f227a454a6a0458cc": {
+    "ok": true,
+    "content": "{\"winner\": \"B\", \"confidence\": 4, \"reason\": \"Explanation B uses more relatable examples and builds on prior knowledge, making it more suitable for early elementary students\"}",
+    "tokens_used": 1298,
+    "prompt_tokens": 1259,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T05:29:17+0900"
+  },
+  "179578cdcda921676876821f8ca6ef3790bebbcd7b59bc46c70d803319452208": {
+    "ok": true,
+    "content": "{\"winner\": \"A\", \"confidence\": 5, \"reason\": \"Explanation A uses simple language and concepts relevant to late elementary students, while Explanation B uses overly complex and abstract mathematical concepts.\"}",
+    "tokens_used": 1235,
+    "prompt_tokens": 1193,
+    "completion_tokens": 42,
+    "cached_at": "2026-05-16T05:29:20+0900"
+  },
+  "a3e6987bb387f93f53765b4c613127fa782b46fcfcfd3f0aa59898dc8808078b": {
+    "ok": true,
+    "content": "{\"winner\": \"A\", \"confidence\": 5, \"reason\": \"Explanation A uses simpler concepts and builds on prior knowledge of plants, cells, evolution, and habitats, making it more suitable for late elementary students.\"}",
+    "tokens_used": 1240,
+    "prompt_tokens": 1193,
+    "completion_tokens": 47,
+    "cached_at": "2026-05-16T05:29:23+0900"
+  },
+  "cde6c2ec35cf745daa52832424479779b0d0a295b3ab03b4c7d27b77706395e6": {
+    "ok": true,
+    "content": "{\"winner\": \"B\", \"confidence\": 5, \"reason\": \"Explanation B uses simpler concepts and builds on prior knowledge of basic biology\"}",
+    "tokens_used": 1224,
+    "prompt_tokens": 1193,
+    "completion_tokens": 31,
+    "cached_at": "2026-05-16T05:29:26+0900"
+  },
+  "acf2cb5807462e630b4116007cd48d0d67e7042071173857d3ed7233347c9d0a": {
+    "ok": true,
+    "content": "{\"winner\": \"A\", \"confidence\": 5, \"reason\": \"Explanation A aligns with elementary curriculum and builds on prior knowledge\"}",
+    "tokens_used": 1248,
+    "prompt_tokens": 1218,
+    "completion_tokens": 30,
+    "cached_at": "2026-05-16T05:29:31+0900"
+  },
+  "3344592b7ad5767bc25643b04d9febf9fffdf756d88b3f7d8d383790f7a56544": {
+    "ok": true,
+    "content": "{\"winner\": \"B\", \"confidence\": 5, \"reason\": \"Explanation B uses simpler concepts and builds on prior knowledge, making it more suitable for late elementary students.\"}",
+    "tokens_used": 1256,
+    "prompt_tokens": 1218,
+    "completion_tokens": 38,
+    "cached_at": "2026-05-16T05:29:37+0900"
+  },
+  "99e730511dc173e4f8bbd6143d5bce9b9b34207fd5c41948da0000c2a0f0a0e5": {
+    "ok": true,
+    "content": "{\"winner\": \"B\", \"confidence\": 5, \"reason\": \"Explanation B uses simpler concepts and builds on prior knowledge, making it more suitable for late elementary students.\"}",
+    "tokens_used": 1256,
+    "prompt_tokens": 1218,
+    "completion_tokens": 38,
+    "cached_at": "2026-05-16T05:29:44+0900"
+  },
+  "973b7828396359f549dcfaf3b196d4ff5845ce8919d20202bb4f4d3ccf6de712": {
+    "ok": true,
+    "content": "{\"winner\": \"B\", \"confidence\": 5, \"reason\": \"Explanation B covers basic biology, evolution, geology, and chemistry concepts at an appropriate level for high school students, building on foundational knowledge and avoiding overly complex terminology.\"}",
+    "tokens_used": 1846,
+    "prompt_tokens": 1795,
+    "completion_tokens": 51,
+    "cached_at": "2026-05-16T05:29:53+0900"
+  },
+  "657716b497e3205097821885fce56d261fc8cd652a9708940b4c7850f626c118": {
+    "ok": true,
+    "content": "{\"winner\": \"A\", \"confidence\": 5, \"reason\": \"Explanation A covers basic scientific concepts at a suitable level for high school students, building on foundational knowledge and avoiding overly complex terminology.\"}",
+    "tokens_used": 1838,
+    "prompt_tokens": 1795,
+    "completion_tokens": 43,
+    "cached_at": "2026-05-16T05:30:02+0900"
+  },
+  "36400562f80821daca9095606aeaa629160a1812c322fc61ce011e96a827278b": {
+    "ok": true,
+    "content": "{\"winner\": \"A\", \"confidence\": 5, \"reason\": \"Explanation A covers basic scientific concepts at a suitable level for high school students, building on foundational knowledge and avoiding overly complex terminology.\"}",
+    "tokens_used": 1838,
+    "prompt_tokens": 1795,
+    "completion_tokens": 43,
+    "cached_at": "2026-05-16T05:30:11+0900"
+  },
+  "1be037b29fa00340ff93c0ca230ccd2bbfdd3d6dd3710a717effc5b2dafdfa61": {
+    "ok": true,
+    "content": "{\"winner\": \"A\", \"confidence\": 5, \"reason\": \"Explanation A covers fundamental concepts in biology, geology, and chemistry that are typically taught in high school, making it more suitable and building on prior knowledge.\"}",
+    "tokens_used": 1457,
+    "prompt_tokens": 1408,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T05:30:19+0900"
+  },
+  "d811dc78a0185122ebdf0b5ef5451141eafe89cef5fbc4495c3e92075d6cdf69": {
+    "ok": true,
+    "content": "{\"winner\": \"B\", \"confidence\": 4, \"reason\": \"Explanation B covers more relevant and foundational high school science topics, such as cells, evolution, plate tectonics, and the periodic table, in a clear and concise manner.\"}",
+    "tokens_used": 1462,
+    "prompt_tokens": 1408,
+    "completion_tokens": 54,
+    "cached_at": "2026-05-16T05:30:28+0900"
+  },
+  "b4915409c85b07276d8f4e06853d331c2414d62a3d65f7afa889a58fd8927b19": {
+    "ok": true,
+    "content": "{\"winner\": \"B\", \"confidence\": 5, \"reason\": \"Explanation B covers fundamental concepts in biology, evolution, geology, and chemistry, making it more suitable and building on prior knowledge for a high school student.\"}",
+    "tokens_used": 1457,
+    "prompt_tokens": 1408,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T05:30:35+0900"
+  },
+  "04d90bbea4f04a31e453c804c64e0fed9e728802c29cb38f1baab7cf9ffc2045": {
+    "ok": true,
+    "content": "{\"winner\": \"A\", \"confidence\": 5, \"reason\": \"Explanation A matches the provided passages and covers relevant scientific content at an appropriate level of complexity for an advanced high school student.\"}",
+    "tokens_used": 1706,
+    "prompt_tokens": 1664,
+    "completion_tokens": 42,
+    "cached_at": "2026-05-16T05:30:43+0900"
+  },
+  "a30d609c677efb9bd7fdc8466d8e9177f25d5097cb503b27557bf8528fee63e0": {
+    "ok": true,
+    "content": "{\"winner\": \"A\", \"confidence\": 5, \"reason\": \"Explanation A covers relevant scientific content at an appropriate level of complexity for an advanced high school student, building on foundational concepts in physics and chemistry.\"}",
+    "tokens_used": 1710,
+    "prompt_tokens": 1664,
+    "completion_tokens": 46,
+    "cached_at": "2026-05-16T05:30:52+0900"
+  },
+  "6214db86324068b6e397e96b46eede79fde5580f2bffd58fe5bec4c1b0d9c567": {
+    "ok": true,
+    "content": "{\"winner\": \"B\", \"confidence\": 5, \"reason\": \"Explanation B covers fundamental scientific concepts at an appropriate level of complexity for advanced high school students, building on likely prior knowledge.\"}",
+    "tokens_used": 1706,
+    "prompt_tokens": 1664,
+    "completion_tokens": 42,
+    "cached_at": "2026-05-16T05:31:35+0900"
+  },
+  "3ea19129cd8d276d18a1387d585c1886f01deed9083700425f0a1f85975a3163": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Water is made of tiny pieces. It can be liquid, ice, or steam.\n\nPassage 2: Plants need sunlight, water, and air to grow.\n\nPassage 3: Let's talk about cells. \n Cells are basic units of life. \n They have parts like a membrane and nucleus.\n\nPassage 4: This is too hard, let's talk about animals adapting.",
+    "tokens_used": 521,
+    "prompt_tokens": 436,
+    "completion_tokens": 85,
+    "cached_at": "2026-05-16T05:44:20+0900"
+  },
+  "cd191451cf00df01f0cefdf7612126b70b12a3b5c1ad0d70cc9dda196854f2f8": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Animals with good traits survive, have babies, and change over time.\n\nPassage 2: Animals live in habitats like ponds or forests with food, water, and shelter.\n\nPassage 3: The Earth's surface is broken into moving plates that create mountains and earthquakes.\n\nPassage 4: That's too hard, let's talk about sound waves and vibrations instead.",
+    "tokens_used": 531,
+    "prompt_tokens": 450,
+    "completion_tokens": 81,
+    "cached_at": "2026-05-16T16:30:20+0900"
+  },
+  "826063f1772aff6fcbe4d8add725c6f2b5537aff0583cbe7e9e0d9d9bc56ef0b": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Let's break these down:\n\n1. Too hard, let's talk about shapes instead.\n2. Too hard, categories are complex.\n3. Too hard, let's learn about patterns.\n4. Too hard, let's play with chance.",
+    "tokens_used": 591,
+    "prompt_tokens": 541,
+    "completion_tokens": 50,
+    "cached_at": "2026-05-16T16:30:23+0900"
+  },
+  "a9ccc2b018bf6db63abe8461291cd0e7cf0da7b57adf7b1d14934ff02675ae42": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "1. Water is made of tiny pieces. \n2. Plants need sunlight and water. \n3. Gravity pulls things down. \n4. Animals live in habitats with food and water.",
+    "tokens_used": 466,
+    "prompt_tokens": 427,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:30:26+0900"
+  },
+  "baf251f30adc08fef8a35aa8370e07fbc40336d82ea1e847c1e98d32e1052c15": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "1. Water is H2O, with 2 hydrogens and 1 oxygen.\n2. Plants need sunlight, water, and air to grow.\n3. Cells have membranes and nuclei with DNA.\n4. Let's break down \"natural selection\" into simpler concepts first.",
+    "tokens_used": 493,
+    "prompt_tokens": 436,
+    "completion_tokens": 57,
+    "cached_at": "2026-05-16T16:30:29+0900"
+  },
+  "f82aee74bf13b507c226afd1b9acf1bac516e36ea586a43bd28ef9d8887164aa": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Too hard, let's break it down.\nPassage 2: Easy, animals live in habitats.\nPassage 3: Too hard, let's start with atoms.\nPassage 4: Too hard, let's learn about patterns.",
+    "tokens_used": 526,
+    "prompt_tokens": 471,
+    "completion_tokens": 55,
+    "cached_at": "2026-05-16T16:30:32+0900"
+  },
+  "04bc57a6d6210c9d425a9b8589e88941f0d15660e6ea8956325ad75dcea53e3d": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Let's break these down:\n\n1. Too hard, let's talk about simpler shapes.\n2. Too hard, categories are complex.\n3. Too hard, let's explore basic algebra.\n4. Too hard, let's discuss simple probability.",
+    "tokens_used": 591,
+    "prompt_tokens": 541,
+    "completion_tokens": 50,
+    "cached_at": "2026-05-16T16:30:36+0900"
+  },
+  "9d03a9bce8598fbab8b3ea1ebee98b45bcdeb35e4c09de387cf991435c25e597": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Plants need sunlight, water, and air. \nPassage 2: Cells are building blocks of life. \nPassage 3: Animals adapt to their environment. \nPassage 4: Animals live in habitats with food and water.",
+    "tokens_used": 489,
+    "prompt_tokens": 434,
+    "completion_tokens": 55,
+    "cached_at": "2026-05-16T16:30:39+0900"
+  },
+  "042c9000ac55d245162afe128b4eff55241faa4011896b1e6707d9278c74b0b7": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Water is H2O, made of hydrogen and oxygen. It can be liquid, solid (ice), or gas (steam).\n\nPassage 2: Plants need sunlight, water, and air to grow through photosynthesis.\n\nPassage 3: Cells have membranes and nuclei with DNA. They produce energy through cellular respiration.\n\nPassage 4: Natural selection helps organisms adapt to environments, changing traits over generations.",
+    "tokens_used": 526,
+    "prompt_tokens": 436,
+    "completion_tokens": 90,
+    "cached_at": "2026-05-16T16:30:42+0900"
+  },
+  "681c46539456ed4624e7ab3d87c73517f49b011cc3b941036866280a925ed595": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Too easy, plants need sunlight, water, and air.\n\nPassage 2: Entropy increases over time, disorder rises.\n\nPassage 3: Quantum mechanics uses wave functions, complex.\n\nPassage 4: Too hard, category theory is advanced math.",
+    "tokens_used": 550,
+    "prompt_tokens": 491,
+    "completion_tokens": 59,
+    "cached_at": "2026-05-16T16:30:45+0900"
+  },
+  "e91946d317c71aa8b992a58bae91aa1bd7d29a6b046b8f4627cbb95b99686e76": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Let's break these down:\n\n1. Too hard, let's start with simpler topology concepts.\n2. Too hard, we'll explore basic category theory first.\n3. Too hard, we'll introduce homological algebra basics.\n4. Too hard, let's cover basic probability and measure theory.",
+    "tokens_used": 601,
+    "prompt_tokens": 541,
+    "completion_tokens": 60,
+    "cached_at": "2026-05-16T16:30:48+0900"
+  },
+  "a90ea1bea5a7eac9e8ee750dd11056596de80e96f976fd1893d1ce63666a2810": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Cells are basic units of life, with a membrane and nucleus.\n\nPassage 2: Natural selection helps organisms adapt to environments.\n\nPassage 3: Earth's plates move, causing earthquakes and forming mountains.\n\nPassage 4: The periodic table organizes elements by atomic number.",
+    "tokens_used": 506,
+    "prompt_tokens": 443,
+    "completion_tokens": 63,
+    "cached_at": "2026-05-16T16:30:51+0900"
+  },
+  "3dba714eaf69f9e9641677518c6f36cf670054f53bd93c19914cb59029d1dec5": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Too easy, water is H2O.\nPassage 2: Also easy, plants need sunlight, water, and air.\nPassage 3: Cells have membranes, nuclei, and mitochondria.\nPassage 4: Natural selection drives evolution, simple concept.",
+    "tokens_used": 497,
+    "prompt_tokens": 437,
+    "completion_tokens": 60,
+    "cached_at": "2026-05-16T16:30:55+0900"
+  },
+  "14711a743dd191e83cc21aa0f021eebd9eacb588bd0caa09fc70dc513a93ee01": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Too easy, plants need sunlight, water, and air.\n\nPassage 2: Entropy increases over time, explaining heat flow.\n\nPassage 3: Maxwell's equations unify electricity and magnetism.\n\nPassage 4: Too hard, let's break down fiber bundles later.",
+    "tokens_used": 536,
+    "prompt_tokens": 473,
+    "completion_tokens": 63,
+    "cached_at": "2026-05-16T16:30:58+0900"
+  },
+  "22c45774105c80670ea787767c9aa3ea59cef8c07d7a7e14bdcbefdc787f9920": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "These passages are too hard. Let's break down simpler concepts first.",
+    "tokens_used": 557,
+    "prompt_tokens": 542,
+    "completion_tokens": 15,
+    "cached_at": "2026-05-16T16:31:01+0900"
+  },
+  "0d3f8807d4dcc8396d0c77a404ddc15e10a2e6099ec6f803ee6f1f0cf0c8a720": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Entropy increases in isolated systems, meaning disorder grows over time.\n\nPassage 2: Maxwell's equations show electricity and magnetism are connected, forming light waves.\n\nPassage 3: Carbon forms complex molecules with varied structures and reactions.\n\nPassage 4: Special relativity: physics laws are constant, and light speed is unchanged.",
+    "tokens_used": 531,
+    "prompt_tokens": 457,
+    "completion_tokens": 74,
+    "cached_at": "2026-05-16T16:31:04+0900"
+  },
+  "045571dc107d87161a18cb6af6707f4c74fa1aabd826755e6b2b6c14d558c214": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Too easy, water is H2O.\nPassage 2: Also easy, plants need sunlight.\nPassage 3: Cells have membranes and DNA.\nPassage 4: Natural selection drives evolution.",
+    "tokens_used": 483,
+    "prompt_tokens": 435,
+    "completion_tokens": 48,
+    "cached_at": "2026-05-16T16:31:07+0900"
+  },
+  "24944184e8cbd99712375e99abd8b1e683ac07545b62768ad7015a27ae0e57f3": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Simple, water is H2O, exists as liquid, solid, or gas.\n\nPassage 2: Maxwell's equations link electricity and magnetism, forming electromagnetic waves.\n\nPassage 3: Easy, habitats provide animals with necessities like food and shelter.\n\nPassage 4: Complex, let's break down probability and measure theory first.",
+    "tokens_used": 534,
+    "prompt_tokens": 459,
+    "completion_tokens": 75,
+    "cached_at": "2026-05-16T16:31:10+0900"
+  },
+  "dbe570db5831ed543938e729201563db2cf33ac7529a719c2aa8b74e30fff3e9": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Let's break these down:\n\n1. Fiber bundles: Complex concept, let's start with simpler topology.\n2. Adjunctions: Advanced category theory, introduce basic functors first.\n3. Homological algebra: High-level math, begin with chain complexes.\n4. Measure-theoretic probability: Complex, start with basic probability.",
+    "tokens_used": 608,
+    "prompt_tokens": 540,
+    "completion_tokens": 68,
+    "cached_at": "2026-05-16T16:31:13+0900"
+  },
+  "4282276a467890d085a632dc8ed6f9abcfde4341ee203e01687ac7bcf703a660": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Let's break each passage down:\n\n1. Quantum mechanics: Wave function describes system, evolves by Schrodinger equation.\n2. Statistics: Large samples mean approaches normal distribution.\n3. General relativity: Metric tensor describes spacetime geometry.\n4. Fourier analysis: Decomposes functions into sinusoidal modes.",
+    "tokens_used": 549,
+    "prompt_tokens": 487,
+    "completion_tokens": 62,
+    "cached_at": "2026-05-16T16:31:16+0900"
+  },
+  "af57241232a772e79d72e4f58eb8fc5e087c2652c5c9575368ea4ca87f777f63": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Passage 1: Basic, let's move on.\nPassage 2: Simple, next.\nPassage 3: Cells have membranes, nuclei, and mitochondria.\nPassage 4: Natural selection drives evolution.",
+    "tokens_used": 482,
+    "prompt_tokens": 435,
+    "completion_tokens": 47,
+    "cached_at": "2026-05-16T16:31:19+0900"
+  },
+  "591ffd6fc106db29cad5a8d90d420a3794976a60f2e37296431114b2df6fdf4f": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "1. Entropy increases in isolated systems, explaining heat flow.\n2. Maxwell's equations unify electricity and magnetism, forming waves.\n3. Wave function describes quantum states, collapsing upon measurement.\n4. Special relativity: constant light speed, time dilation, and contraction.",
+    "tokens_used": 511,
+    "prompt_tokens": 455,
+    "completion_tokens": 56,
+    "cached_at": "2026-05-16T16:31:22+0900"
+  },
+  "f7693cccfa9bc0b5ae8820ca329ed8ef587e938fd63f08af66e72e1409788cc0": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "Let's break down each passage:\n\n1. Fiber bundles: Locally, a product space, but globally different.\n2. Adjoint functors: Encode universal properties between categories.\n3. Homological algebra: Studies chain complexes and derived functors.\n4. Measure-theoretic probability: Models random variables as measurable functions.",
+    "tokens_used": 606,
+    "prompt_tokens": 540,
+    "completion_tokens": 66,
+    "cached_at": "2026-05-16T16:31:25+0900"
+  },
+  "51087f84d60267c9abc827ad6be51c3d1d8e37f19489215550152b899e3ec37d": {
+    "ok": true,
+    "model": "llama-3.3-70b-versatile",
+    "content": "1. Fiber bundles: Locally, a product space, but globally different.\n2. Adjoint functors: Encode universal properties between categories.\n3. Homological algebra: Studies chain complexes and derived functors.\n4. Measure-theoretic probability: Models random variables as measurable functions.",
+    "tokens_used": 599,
+    "prompt_tokens": 540,
+    "completion_tokens": 59,
+    "cached_at": "2026-05-16T16:31:28+0900"
+  },
+  "395ba418ff7492c35592023581165537d6fe3c95696187cf799a4ebe7f7f780c": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A is more suitable for early elementary students as it directly addresses the topic and uses simple language, whereas Explanation B is too vague and dismissive.\"\n}",
+    "tokens_used": 304,
+    "prompt_tokens": 252,
+    "completion_tokens": 52,
+    "cached_at": "2026-05-16T16:31:31+0900"
+  },
+  "71f35bf4bd78e4122f042a98b50315b497b9c0cb16938542f694c1a0c984a1d6": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A directly addresses the topic and uses simple language, building on basic concepts that early elementary students are likely familiar with.\"\n}",
+    "tokens_used": 298,
+    "prompt_tokens": 252,
+    "completion_tokens": 46,
+    "cached_at": "2026-05-16T16:31:34+0900"
+  },
+  "6cbc98fb065f9470b9561d6075fdcc2f1237638982af0a53f7dbdc60925aa1ea": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"B\",\n  \"confidence\": 4,\n  \"reason\": \"Explanation B is more suitable for early elementary students as it uses concrete concepts and vocabulary that align with their current knowledge and understanding of the world.\"\n}",
+    "tokens_used": 302,
+    "prompt_tokens": 252,
+    "completion_tokens": 50,
+    "cached_at": "2026-05-16T16:31:37+0900"
+  },
+  "08f2b7795a5e17d70bf46a54035e31ce262d04d1b3635b1b35432db4afdb6e9b": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A builds on basic concepts of survival, habitats, and Earth's surface, making it more coherent and engaging for early elementary students.\"\n}",
+    "tokens_used": 332,
+    "prompt_tokens": 283,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T16:31:40+0900"
+  },
+  "45f0f47b4a6a1b9d68f6e6906b7b9f989594395ecea5ba21046905dff61a4d7d": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A builds on basic concepts of survival, habitats, and Earth's features, making it more engaging and accessible for early elementary students.\"\n}",
+    "tokens_used": 332,
+    "prompt_tokens": 283,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T16:31:43+0900"
+  },
+  "7ecd93ec99970874bc6916ae0f1ac343c57d365937602e19df2d710bfbdb1c35": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A builds on basic concepts of survival, habitats, and Earth's features, making it more coherent and engaging for early elementary students.\"\n}",
+    "tokens_used": 332,
+    "prompt_tokens": 283,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T16:31:46+0900"
+  },
+  "b1c586d6912f4ae208613e1fb48f4998365ca72e6b57a23e7ae58a0bc1e38aa9": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A aligns with late elementary curriculum standards and builds on foundational knowledge, making it more suitable for the target audience.\"\n}",
+    "tokens_used": 314,
+    "prompt_tokens": 268,
+    "completion_tokens": 46,
+    "cached_at": "2026-05-16T16:31:48+0900"
+  },
+  "4dbe15eb3d52f34cada5aefe5e1358afedfb9719ec01a5039a9f016bcc085767": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A aligns with late elementary curriculum standards and builds on foundational knowledge, making it more suitable for the target audience.\"\n}",
+    "tokens_used": 314,
+    "prompt_tokens": 268,
+    "completion_tokens": 46,
+    "cached_at": "2026-05-16T16:31:51+0900"
+  },
+  "115a9e7c70caf094f02d1926f31d4d942d558909b7cb601e5d6bd0148cfb7554": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"B\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation B is more suitable as it presents a coherent and simplified narrative, whereas Explanation A appears to be a collection of disconnected statements.\"\n}",
+    "tokens_used": 316,
+    "prompt_tokens": 268,
+    "completion_tokens": 48,
+    "cached_at": "2026-05-16T16:31:54+0900"
+  },
+  "835e27d32134b9e9dc9d15a9bb0b0ff2634cc393f9eeb84f36135ac15d24914c": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A presents a clear and concise introduction to the topic, building on basic concepts that a late elementary student is likely familiar with.\"\n}",
+    "tokens_used": 321,
+    "prompt_tokens": 273,
+    "completion_tokens": 48,
+    "cached_at": "2026-05-16T16:31:57+0900"
+  },
+  "6cdb7a8eaf52e9d1fda5396e22e5ab9d1c3ac100f4a712c28ab15ef5965c166b": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"B\",\n  \"confidence\": 4,\n  \"reason\": \"Explanation B builds on basic concepts and vocabulary that late elementary students are likely familiar with, making it more accessible and engaging.\"\n}",
+    "tokens_used": 319,
+    "prompt_tokens": 273,
+    "completion_tokens": 46,
+    "cached_at": "2026-05-16T16:32:00+0900"
+  },
+  "6edbfec4e1789d30a12a8c0ecd40f5bbef1e757b9c2988d7e62cd8dc16504f8b": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"B\",\n  \"confidence\": 4,\n  \"reason\": \"Explanation B builds on basic concepts and vocabulary that late elementary students are likely familiar with, making it more accessible and engaging.\"\n}",
+    "tokens_used": 319,
+    "prompt_tokens": 273,
+    "completion_tokens": 46,
+    "cached_at": "2026-05-16T16:32:03+0900"
+  },
+  "99ece8ebd38dacf65255a69b43908a695b43dbb191219ee8c52d88c6e7dbc439": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"B\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation B builds on basic concepts that high school students are likely familiar with, such as cells, natural selection, plate tectonics, and the periodic table, making it more accessible and engaging.\"\n}",
+    "tokens_used": 348,
+    "prompt_tokens": 286,
+    "completion_tokens": 62,
+    "cached_at": "2026-05-16T16:32:06+0900"
+  },
+  "604e9b6710d46b9aff9675b533dc27a278c70328967784244c6bd1da90e02da3": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A is more suitable for a high school student as it presents fundamental concepts in a straightforward manner, aligning with their typical level of knowledge and understanding.\"\n}",
+    "tokens_used": 339,
+    "prompt_tokens": 286,
+    "completion_tokens": 53,
+    "cached_at": "2026-05-16T16:32:09+0900"
+  },
+  "bc64aaff4a174023b550e3f515432ae77c35882f316bfbb77019ecdb1292c624": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A is more suitable for a high school student as it presents fundamental concepts in a straightforward manner, aligning with their typical level of knowledge and understanding.\"\n}",
+    "tokens_used": 339,
+    "prompt_tokens": 286,
+    "completion_tokens": 53,
+    "cached_at": "2026-05-16T16:32:12+0900"
+  },
+  "b5123293c92353677d6090a4e228535d1e997339702c60dacde56dc9a5c18ef4": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A presents complex scientific concepts in a clear and accessible manner, building on foundational knowledge and avoiding oversimplification or unnecessary complexity.\"\n}",
+    "tokens_used": 333,
+    "prompt_tokens": 285,
+    "completion_tokens": 48,
+    "cached_at": "2026-05-16T16:32:14+0900"
+  },
+  "ad018c8d527d8d9b920d50f874fe800a5408dc5dd80f6be9fb64a147ec16d230": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"B\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation B builds on foundational high school concepts, avoiding oversimplification and unnecessary complexity.\"\n}",
+    "tokens_used": 324,
+    "prompt_tokens": 285,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:32:17+0900"
+  },
+  "15918306c58b33a4f7714b4f5c285997f10c5cd762f967b585761aca741fabd9": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"B\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation B builds on foundational high school concepts in biology, ecology, and geology, and introduces relevant scientific principles at an accessible level.\"\n}",
+    "tokens_used": 334,
+    "prompt_tokens": 285,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T16:32:20+0900"
+  },
+  "27b10b1de453d89a09db3f10b36040d48479b08c0ff442bca8ffec901d5ab52c": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A presents complex scientific concepts at an appropriate level for advanced high school students, building on their existing knowledge and avoiding oversimplification.\"\n}",
+    "tokens_used": 303,
+    "prompt_tokens": 254,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T16:32:23+0900"
+  },
+  "546ba31f7dc6df870beaf73ed03e4109cb36157004ee6515dc527d00b49ceb01": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A presents complex scientific concepts at an appropriate level for advanced high school students, building on their existing knowledge and avoiding oversimplification.\"\n}",
+    "tokens_used": 303,
+    "prompt_tokens": 254,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T16:32:26+0900"
+  },
+  "62c7942bf8a588a960c7be86f65f7b94ccc8b6532fa0e2e294c2a2daa17bd75c": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A acknowledges the student's current level of understanding and suggests a more gradual approach, which is more suitable for advanced high school students.\"\n}",
+    "tokens_used": 303,
+    "prompt_tokens": 254,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T16:32:29+0900"
+  },
+  "56e8867ef9db39878ef8547dbe72c29f23405c142aa24bed48fbea65eeaed511": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"B\",\n  \"confidence\": 4,\n  \"reason\": \"Explanation B builds on the student's likely knowledge of basic thermodynamics and electricity, and introduces more complex concepts in a clear manner.\"\n}",
+    "tokens_used": 350,
+    "prompt_tokens": 302,
+    "completion_tokens": 48,
+    "cached_at": "2026-05-16T16:32:32+0900"
+  },
+  "ff3c8b35e431f0a07c040b85f9d1ad376e1762baf79befb4a3fe5c17cee4546c": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A presents complex scientific concepts at an appropriate level for advanced high school students, building on their existing knowledge and avoiding oversimplification or unnecessary complexity.\"\n}",
+    "tokens_used": 354,
+    "prompt_tokens": 302,
+    "completion_tokens": 52,
+    "cached_at": "2026-05-16T16:32:35+0900"
+  },
+  "d404dcbc1d9855aa5104819bc0854bbba8c71164e48faf2222d3a1b5047824bb": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"B\",\n  \"confidence\": 4,\n  \"reason\": \"Explanation B builds on foundational concepts, introduces new ideas at a suitable level of complexity, and avoids oversimplification or unnecessary abstraction.\"\n}",
+    "tokens_used": 350,
+    "prompt_tokens": 302,
+    "completion_tokens": 48,
+    "cached_at": "2026-05-16T16:32:37+0900"
+  },
+  "b598097e406beb1a9dbe36101c2a269c2d0ac2e1997d22e5f8ab3576fd66af93": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A builds on foundational concepts in physics and statistics, which are more likely to be familiar to undergraduate students, and presents them in a clear and concise manner.\"\n}",
+    "tokens_used": 345,
+    "prompt_tokens": 291,
+    "completion_tokens": 54,
+    "cached_at": "2026-05-16T16:32:40+0900"
+  },
+  "18fbb5bd44674ded8dc07e193928e45e0c030c8e2d90382b7c2fa03b96cf9c88": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A uses well-known scientific concepts that align with undergraduate curriculum, making it more accessible and easier to build upon existing knowledge.\"\n}",
+    "tokens_used": 338,
+    "prompt_tokens": 291,
+    "completion_tokens": 47,
+    "cached_at": "2026-05-16T16:32:43+0900"
+  },
+  "9e057d69bff0bf77a586aa08dbb1cd5112833ca1cf49cad35e826ce4bd691af7": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A breaks down complex concepts into simpler, more foundational ideas, making it more suitable for undergraduate students who may not have a strong background in the subject.\"\n}",
+    "tokens_used": 344,
+    "prompt_tokens": 291,
+    "completion_tokens": 53,
+    "cached_at": "2026-05-16T16:32:46+0900"
+  },
+  "331dca9718a1d4b5627c460766d7ce07f337b387339cf95f3ddd78f19fff3f58": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A presents complex scientific concepts in a concise and clear manner, building on foundational knowledge that an undergraduate student is likely to have.\"\n}",
+    "tokens_used": 346,
+    "prompt_tokens": 298,
+    "completion_tokens": 48,
+    "cached_at": "2026-05-16T16:32:49+0900"
+  },
+  "916bc4513de9e391abe20b3c7b31bd9f7905b217348d772d3fdbc131fdc342d5": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A presents complex scientific concepts in a clear and concise manner, building on foundational knowledge and avoiding oversimplification.\"\n}",
+    "tokens_used": 343,
+    "prompt_tokens": 298,
+    "completion_tokens": 45,
+    "cached_at": "2026-05-16T16:32:52+0900"
+  },
+  "09fd0970c59d10ef01dd677804576ae9eea2c5fa6f02b1f93ca4173235f2582c": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 4,\n  \"reason\": \"Explanation A presents complex concepts in a simplified manner, making it more accessible to undergraduate students. It also builds on basic knowledge and avoids being too simple or complex.\"\n}",
+    "tokens_used": 352,
+    "prompt_tokens": 298,
+    "completion_tokens": 54,
+    "cached_at": "2026-05-16T16:32:55+0900"
+  },
+  "0da9a3fbe124ab5a39af954a55ec2d4469f0a88e81e52505e440d0a7f238b68d": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 4,\n  \"reason\": \"Explanation A is more concise and assumes a higher level of prior knowledge, making it more suitable for a graduate researcher.\"\n}",
+    "tokens_used": 331,
+    "prompt_tokens": 286,
+    "completion_tokens": 45,
+    "cached_at": "2026-05-16T16:32:58+0900"
+  },
+  "e983266b7e6b9b2522e2c056c011885354b56852e990400a5341e349e20bc878": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A is more concise and assumes a higher level of prior knowledge, making it more suitable for a graduate researcher.\"\n}",
+    "tokens_used": 331,
+    "prompt_tokens": 286,
+    "completion_tokens": 45,
+    "cached_at": "2026-05-16T16:33:00+0900"
+  },
+  "da7c36fedb8e47ded0c9a0828ca9bc666f5875d8a421b95419bb48342edc888b": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A presents the same information in a concise and clear manner, suggesting a more suitable level of complexity for a graduate researcher.\"\n}",
+    "tokens_used": 333,
+    "prompt_tokens": 286,
+    "completion_tokens": 47,
+    "cached_at": "2026-05-16T16:33:04+0900"
+  },
+  "acfb1439eb22cc5af5d80bbfb335a1cc03b3d66f66acbabd1c25ea3eddbfd010": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A is more suitable for a graduate researcher as it covers fundamental concepts in physics that are likely familiar to them, presented in a concise and coherent manner.\"\n}",
+    "tokens_used": 329,
+    "prompt_tokens": 276,
+    "completion_tokens": 53,
+    "cached_at": "2026-05-16T16:33:07+0900"
+  },
+  "f4e8311ef71550745544d8b9b946cac9a8f11d87d577f83f3346028ed43b387a": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A uses established scientific concepts familiar to graduate researchers in physics, making it more accessible and relevant to their knowledge base.\"\n}",
+    "tokens_used": 322,
+    "prompt_tokens": 276,
+    "completion_tokens": 46,
+    "cached_at": "2026-05-16T16:33:10+0900"
+  },
+  "2d0706e5bad5d50b201bba8f99bb9dd89238b570109eddc4dd85fb72d04bdb01": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"winner\": \"A\",\n  \"confidence\": 5,\n  \"reason\": \"Explanation A demonstrates a higher level of abstraction and technical complexity, suitable for a graduate researcher familiar with advanced mathematical concepts.\"\n}",
+    "tokens_used": 321,
+    "prompt_tokens": 276,
+    "completion_tokens": 45,
+    "cached_at": "2026-05-16T16:33:12+0900"
+  },
+  "b8759f0a67fd9340ba3d47c8596d93023830d7a7744653526ae25728bcc0c96c": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 6,\n  \"reason\": \"Moderate mismatch. Concepts are introduced but some vocabulary (cells, membrane, nucleus) may be too advanced for early elementary students.\"\n}",
+    "tokens_used": 357,
+    "prompt_tokens": 316,
+    "completion_tokens": 41,
+    "cached_at": "2026-05-16T16:33:15+0900"
+  },
+  "ce1315d15eb547e1d645926cd0127c777b32cb743712dd79d4e94c4a09a6d1b3": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 6,\n  \"reason\": \"Moderate mismatch. Concepts are introduced but some vocabulary (cells, membrane, nucleus) may be too advanced for early elementary students.\"\n}",
+    "tokens_used": 357,
+    "prompt_tokens": 316,
+    "completion_tokens": 41,
+    "cached_at": "2026-05-16T16:33:18+0900"
+  },
+  "650002a9e1258ca618a8b5bdaa6aa36a0e6dbd33e474ea47f7f2e2af6e901433": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 6,\n  \"reason\": \"Moderate mismatch. Concepts are introduced but some vocabulary (cells, membrane, nucleus) may be too advanced for early elementary students.\"\n}",
+    "tokens_used": 357,
+    "prompt_tokens": 316,
+    "completion_tokens": 41,
+    "cached_at": "2026-05-16T16:33:21+0900"
+  },
+  "f032d3049abfc399cdb8b867919ffcb7081f70f4dff8b36151c9bd716a848e7d": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. Content is slightly advanced for early elementary students, but they may still gain some understanding of basic concepts.\"\n}",
+    "tokens_used": 351,
+    "prompt_tokens": 312,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:33:24+0900"
+  },
+  "6e2d34f7cb365e0e8d3018cbc209014503d9fc9e438975a04315c4a95787eb3d": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. Content is slightly advanced for early elementary students, but they may still gain some understanding of basic concepts.\"\n}",
+    "tokens_used": 351,
+    "prompt_tokens": 312,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:33:27+0900"
+  },
+  "e50862112d196b9784825fbe9c6be7ac5d7b4a22e4da2bd22c5426664e9d775d": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 6,\n  \"reason\": \"Moderate mismatch. Content is slightly advanced for early elementary students, but Passage 2 is more suitable for their level.\"\n}",
+    "tokens_used": 351,
+    "prompt_tokens": 312,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:33:30+0900"
+  },
+  "1b7991acc6a560ca7b604dcd8cdcbfb72ea779c15733b3447392892ce1a66037": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 2,\n  \"reason\": \"Explanation avoids challenging content altogether, failing to provide a suitable learning opportunity for the student.\"\n}",
+    "tokens_used": 313,
+    "prompt_tokens": 281,
+    "completion_tokens": 32,
+    "cached_at": "2026-05-16T16:33:33+0900"
+  },
+  "6619efa0831889c3bd84f328eac54dd558fc70216b8ec3474fcc7e92c30d19f6": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 2,\n  \"reason\": \"Explanation is too vague and doesn't address the student's specific needs or learning level, instead avoiding challenging content altogether.\"\n}",
+    "tokens_used": 319,
+    "prompt_tokens": 281,
+    "completion_tokens": 38,
+    "cached_at": "2026-05-16T16:33:35+0900"
+  },
+  "308e985989c18a79358a7b77886845339ae8da6aefa28a8c4fcf93de3e96c270": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 2,\n  \"reason\": \"Explanation is too vague and doesn't provide a clear connection to the student's learning needs, indicating a complete mismatch.\"\n}",
+    "tokens_used": 319,
+    "prompt_tokens": 281,
+    "completion_tokens": 38,
+    "cached_at": "2026-05-16T16:33:38+0900"
+  },
+  "1611d9e5f9533fcfbb9fdc931c14cde8083f4f95c91ed6ae7e4941408be92e18": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Explanation is clear and concise, but some concepts (gravity, habitats) may be slightly advanced for early elementary students.\"\n}",
+    "tokens_used": 308,
+    "prompt_tokens": 270,
+    "completion_tokens": 38,
+    "cached_at": "2026-05-16T16:33:41+0900"
+  },
+  "9d740e002be7a9ecd25d70da1b58347cc4a76321c09ba1b43dcd89fbcfa447cc": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Explanation is clear and concise, but some concepts (gravity, habitats) may be slightly advanced for early elementary students.\"\n}",
+    "tokens_used": 308,
+    "prompt_tokens": 270,
+    "completion_tokens": 38,
+    "cached_at": "2026-05-16T16:33:44+0900"
+  },
+  "569c4e965d245422c8834a7433241a1bd728abc6fd467b144a92b9a5fbc08b77": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Explanation is clear and concise, but some concepts (gravity, habitats) may be slightly advanced for early elementary students.\"\n}",
+    "tokens_used": 308,
+    "prompt_tokens": 270,
+    "completion_tokens": 38,
+    "cached_at": "2026-05-16T16:33:47+0900"
+  },
+  "d1f06dcb12ef602cf3e0ab9d83f85a7721e781d3bbde7e5935ed859a6b98f657": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Explanation covers basic concepts but assumes prior knowledge of cells and DNA, which may be challenging for late elementary students.\"\n}",
+    "tokens_used": 325,
+    "prompt_tokens": 288,
+    "completion_tokens": 37,
+    "cached_at": "2026-05-16T16:33:50+0900"
+  },
+  "acfecd5f98e501fc5f39c8cd6b0b7e2d2ed210518b026b704bdab3fdcc0af936": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Explanation covers basic scientific concepts but may be slightly advanced for late elementary students, particularly 'natural selection' and 'cells with membranes and nuclei with DNA'.\"\n}",
+    "tokens_used": 334,
+    "prompt_tokens": 288,
+    "completion_tokens": 46,
+    "cached_at": "2026-05-16T16:33:53+0900"
+  },
+  "b03838a949b16f45a7b0cf48835828253cd4a1f39513c3154acd184ae0d9b7b9": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Explanation covers basic concepts but may be slightly advanced for late elementary students, especially 'natural selection' and 'cells with membranes and nuclei with DNA'.\"\n}",
+    "tokens_used": 333,
+    "prompt_tokens": 288,
+    "completion_tokens": 45,
+    "cached_at": "2026-05-16T16:33:56+0900"
+  },
+  "b3a404428ea7bf05484b018f4179fac6d00b745cc649c4939548573d156763d8": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passages are too advanced for a late elementary student, indicating a poor match to their learning level.\"\n}",
+    "tokens_used": 321,
+    "prompt_tokens": 286,
+    "completion_tokens": 35,
+    "cached_at": "2026-05-16T16:33:59+0900"
+  },
+  "73fadb503ba5cf62699b8445c68a9d77700a6295c3e08e9c2b69586fc735ada9": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passages 2 and 4 are too easy, while Passages 1 and 3 are too hard, indicating a poor match to the student's learning level.\"\n}",
+    "tokens_used": 335,
+    "prompt_tokens": 286,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T16:34:01+0900"
+  },
+  "ab4418388ded7769621fbc886ee2f0c41094b4393d5cbc475a7a1b9527f45246": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passages 2 and 4 are too easy, while Passages 1 and 3 are too hard, indicating a poor match to the student's learning level.\"\n}",
+    "tokens_used": 335,
+    "prompt_tokens": 286,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T16:34:04+0900"
+  },
+  "e63801bde2efa3ccee3d4b177da3469bb4f00277245e2a25644eca3cd8f1e076": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 2,\n  \"reason\": \"Explanation is too advanced and assumes prior knowledge of complex concepts, making it a complete mismatch for a late elementary student.\"\n}",
+    "tokens_used": 319,
+    "prompt_tokens": 281,
+    "completion_tokens": 38,
+    "cached_at": "2026-05-16T16:34:07+0900"
+  },
+  "6947a06994ae096f5a32ecd31ab85fe276ce6dbb91b78e55dcc04e52437c53f6": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 2,\n  \"reason\": \"Explanation is too advanced and assumes prior knowledge of complex concepts, making it a complete mismatch for a late elementary student.\"\n}",
+    "tokens_used": 319,
+    "prompt_tokens": 281,
+    "completion_tokens": 38,
+    "cached_at": "2026-05-16T16:34:10+0900"
+  },
+  "d97b5f852ca5e1948702b7ba7a86491b71949dc2433e024e0ade405d643f386d": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 2,\n  \"reason\": \"Explanation is too advanced and complex for a late elementary student, indicating a complete mismatch with their learning level.\"\n}",
+    "tokens_used": 317,
+    "prompt_tokens": 281,
+    "completion_tokens": 36,
+    "cached_at": "2026-05-16T16:34:13+0900"
+  },
+  "a13e622c0c16254a5d0e3481623ed63cc24fd12e0043855f0fa2a1d1b12ad0fe": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. Concepts are somewhat related to elementary science, but vocabulary and complexity are slightly above typical late elementary level.\"\n}",
+    "tokens_used": 325,
+    "prompt_tokens": 286,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:34:16+0900"
+  },
+  "a0412d83d9050723d7ad44566c4aca6afa3df4f769d5a5278704357651cf628c": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 6,\n  \"reason\": \"Moderate mismatch. Concepts are somewhat related to elementary life science but lack depth and connection to student's current knowledge level.\"\n}",
+    "tokens_used": 325,
+    "prompt_tokens": 286,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:34:19+0900"
+  },
+  "52d08e03897f9fb891542d3b80361457e25fe831a8c1cfdf2d401ba0fcb90bda": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. Concepts are related to life science, but vocabulary and complexity may be slightly beyond late elementary student's level.\"\n}",
+    "tokens_used": 326,
+    "prompt_tokens": 286,
+    "completion_tokens": 40,
+    "cached_at": "2026-05-16T16:34:22+0900"
+  },
+  "248299900a2e83fa6cfc444cd815f79eb0d3fc5f8bd101e992293c6d42566a74": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Good match, but assumes prior knowledge of basic chemistry and biology concepts\"\n}",
+    "tokens_used": 350,
+    "prompt_tokens": 321,
+    "completion_tokens": 29,
+    "cached_at": "2026-05-16T16:34:25+0900"
+  },
+  "50f9437773567c9bdb8495d67b8855b480175d4c7b342695ddfd13bd72ad61a5": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Good match, but assumes prior knowledge of basic chemistry and biology concepts, potentially making it slightly challenging for a high school student.\"\n}",
+    "tokens_used": 361,
+    "prompt_tokens": 321,
+    "completion_tokens": 40,
+    "cached_at": "2026-05-16T16:34:27+0900"
+  },
+  "060333f303143a58d5e8adf2e16b0c4fa724669635bef03051ba82e23e1ee03c": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Good match, but passages may be slightly too advanced for a high school student, especially Passage 4 on natural selection.\"\n}",
+    "tokens_used": 360,
+    "prompt_tokens": 321,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:34:30+0900"
+  },
+  "b31e000a49099c11197391a2a2889db42a7e670ed968184375cbe74393f87113": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passage 1 is too simplistic, while Passage 2 and Passage 3 are too advanced for a high school student, and Passage 4 is too advanced for any level.\"\n}",
+    "tokens_used": 341,
+    "prompt_tokens": 290,
+    "completion_tokens": 51,
+    "cached_at": "2026-05-16T16:34:33+0900"
+  },
+  "eec77de18d8cef45845451bf151c54a3dc46a3cc29b782fbea7a5c50d3449d44": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passage 1 is too simplistic, while Passage 2 and Passage 3 are too advanced for a high school student, and Passage 4 is too advanced for any level.\"\n}",
+    "tokens_used": 341,
+    "prompt_tokens": 290,
+    "completion_tokens": 51,
+    "cached_at": "2026-05-16T16:34:36+0900"
+  },
+  "99ba4f7fbfbccbf9d96fd6f3738f3e16d37fbea4abede567d113d88ab8ca3417": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passage 1 is too simplistic, while Passage 2 and Passage 3 are too advanced for a high school student, and Passage 4 is too advanced for any level.\"\n}",
+    "tokens_used": 341,
+    "prompt_tokens": 290,
+    "completion_tokens": 51,
+    "cached_at": "2026-05-16T16:34:39+0900"
+  },
+  "3ff0a13eb691e0a5af88406cbefbc878cc8737471253949e3d5939f76af1d550": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 1,\n  \"reason\": \"The explanation is completely mismatched as it acknowledges the student's difficulty with the content and suggests moving to simpler concepts, indicating the student is already struggling with the material.\"\n}",
+    "tokens_used": 339,
+    "prompt_tokens": 291,
+    "completion_tokens": 48,
+    "cached_at": "2026-05-16T16:34:42+0900"
+  },
+  "6ab75191f2e119e25b58074f1eb0e18334cd512301fcb1011098ccb3afc79a14": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 1,\n  \"reason\": \"The explanation is completely mismatched as it acknowledges the student's difficulty with the content and decides to skip it altogether, failing to provide any targeted support or alternative learning path.\"\n}",
+    "tokens_used": 340,
+    "prompt_tokens": 291,
+    "completion_tokens": 49,
+    "cached_at": "2026-05-16T16:34:45+0900"
+  },
+  "1d56c07ef5f06d8e4bb81bb25adbffca335ebe2ca75e1667eea902508d901e1b": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 1,\n  \"reason\": \"The explanation is too advanced for a high school student, indicating a complete mismatch with their learning level.\"\n}",
+    "tokens_used": 326,
+    "prompt_tokens": 291,
+    "completion_tokens": 35,
+    "cached_at": "2026-05-16T16:34:48+0900"
+  },
+  "56949b114c61dbe230bbf2776b81f74ac20906af2cc33fe0131916411c4565ee": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Good match, slightly easy for a high school student, but covers fundamental concepts in biology, ecology, geology, and chemistry.\"\n}",
+    "tokens_used": 335,
+    "prompt_tokens": 294,
+    "completion_tokens": 41,
+    "cached_at": "2026-05-16T16:34:51+0900"
+  },
+  "69b4c3681537e33a9caa25c736f8dbe3b47dd2acba9b78c51d0043d324325430": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Good match, slightly easy for a high school student, but covers fundamental concepts in biology, ecology, geology, and chemistry.\"\n}",
+    "tokens_used": 335,
+    "prompt_tokens": 294,
+    "completion_tokens": 41,
+    "cached_at": "2026-05-16T16:34:54+0900"
+  },
+  "6083e4c0289cc40644789864cdd8091fd8ec90c11a267f14b861db3e531770e7": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 7,\n  \"reason\": \"Good match, slightly easy, but still valuable for a high school student learning basic biology, ecology, and earth science concepts.\"\n}",
+    "tokens_used": 334,
+    "prompt_tokens": 294,
+    "completion_tokens": 40,
+    "cached_at": "2026-05-16T16:34:57+0900"
+  },
+  "fdd8b2c50ed941afef4d39794bf770679385034fdf02665f60df85ec7a3530a9": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passages are too easy and lack depth for an advanced high school student.\"\n}",
+    "tokens_used": 322,
+    "prompt_tokens": 292,
+    "completion_tokens": 30,
+    "cached_at": "2026-05-16T16:35:00+0900"
+  },
+  "f3fd09e768bb25feea69890695be0ba5d65f71b96b913ff6b2e1e31074007f37": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passages are too easy and lack depth for an advanced high school student.\"\n}",
+    "tokens_used": 322,
+    "prompt_tokens": 292,
+    "completion_tokens": 30,
+    "cached_at": "2026-05-16T16:35:03+0900"
+  },
+  "5ade695ca229e8f14c90471dda1f4093cfbcf3586ab88f4f71952ea8699f568a": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passages are too simplistic for an advanced high school student, lacking depth and complexity in scientific concepts.\"\n}",
+    "tokens_used": 327,
+    "prompt_tokens": 292,
+    "completion_tokens": 35,
+    "cached_at": "2026-05-16T16:35:05+0900"
+  },
+  "c299c30f9d206c9bab8eff1c82057d14c89f2689ee5bfd1444f0b9889c079ce6": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passage 1 is too easy, while Passage 2 and 3 are too hard, with Passage 4 being too vague for an ideal match.\"\n}",
+    "tokens_used": 341,
+    "prompt_tokens": 295,
+    "completion_tokens": 46,
+    "cached_at": "2026-05-16T16:35:08+0900"
+  },
+  "01fe5b25a152dc7018cbf49dc848b4ccb881f6cc00fd306a68f009efedcb9ebd": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passage 1 is too simplistic, while Passage 2 and Passage 3 are too advanced for an advanced high school student, and Passage 4 is skipped.\"\n}",
+    "tokens_used": 343,
+    "prompt_tokens": 295,
+    "completion_tokens": 48,
+    "cached_at": "2026-05-16T16:35:11+0900"
+  },
+  "835ad794d8f60403c7c8016de0854ff934c3301bbf69aba293729d7c5fc22500": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Passage 1 is too easy, while Passage 2 and Passage 3 are too hard for an advanced high school student.\"\n}",
+    "tokens_used": 336,
+    "prompt_tokens": 295,
+    "completion_tokens": 41,
+    "cached_at": "2026-05-16T16:35:14+0900"
+  },
+  "7c09f4bf10b27caf92ecda01079d6fce560b926f22c827759f60bf95d0293d5a": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Student is described as advanced, but the explanation suggests breaking down simpler concepts, indicating a mismatch between the student's level and the suggested approach.\"\n}",
+    "tokens_used": 290,
+    "prompt_tokens": 247,
+    "completion_tokens": 43,
+    "cached_at": "2026-05-16T16:35:17+0900"
+  },
+  "d72303198d5291b622c3384fbb6cc920001b05d256386045c75ad8b032a7e04e": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Student is advanced, but explanation is still too simplistic and doesn't challenge them enough.\"\n}",
+    "tokens_used": 279,
+    "prompt_tokens": 247,
+    "completion_tokens": 32,
+    "cached_at": "2026-05-16T16:35:20+0900"
+  },
+  "5a9a77264321fc83789d8612be4834db56c3ef570d662e576888e721a02d4960": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Student is described as advanced, but the explanation suggests the content is too hard, indicating a mismatch in the student's current level of understanding.\"\n}",
+    "tokens_used": 290,
+    "prompt_tokens": 247,
+    "completion_tokens": 43,
+    "cached_at": "2026-05-16T16:35:23+0900"
+  },
+  "6a13f7afc041baa057d0e069eff71089ad2644491bd75e77cffd9a737c019b5a": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 8,\n  \"reason\": \"Content is challenging but relevant to advanced high school students, covering fundamental concepts in physics and chemistry.\"\n}",
+    "tokens_used": 340,
+    "prompt_tokens": 306,
+    "completion_tokens": 34,
+    "cached_at": "2026-05-16T16:35:26+0900"
+  },
+  "e823e942cf087f8ebab89b92c046efce735eb8758c2f70066936f48b0787e537": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 8,\n  \"reason\": \"Content is generally at the student's level, but Passage 4 may be slightly too advanced for an advanced high school student.\"\n}",
+    "tokens_used": 346,
+    "prompt_tokens": 306,
+    "completion_tokens": 40,
+    "cached_at": "2026-05-16T16:35:28+0900"
+  },
+  "3f1850b94fc5b03343728a8983d0098b3b7cfbcca5866215196f29eafbe27026": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 8,\n  \"reason\": \"Content is challenging but suitable for an advanced high school student, covering fundamental concepts in physics and chemistry.\"\n}",
+    "tokens_used": 341,
+    "prompt_tokens": 306,
+    "completion_tokens": 35,
+    "cached_at": "2026-05-16T16:35:31+0900"
+  },
+  "fe53b24d0e78e9782a15d2192466b84dcdda99a6846e601de62bc5ceb8c0bd4e": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. The content is somewhat challenging but lacks depth and context for meaningful learning.\"\n}",
+    "tokens_used": 311,
+    "prompt_tokens": 278,
+    "completion_tokens": 33,
+    "cached_at": "2026-05-16T16:35:34+0900"
+  },
+  "9e8b5b1d57eab8134ecb005679ba8fe23133f02dfb0a4bd1120b1ea66fb2ddd2": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. Content is slightly advanced for an undergraduate student, but still somewhat valuable.\"\n}",
+    "tokens_used": 311,
+    "prompt_tokens": 278,
+    "completion_tokens": 33,
+    "cached_at": "2026-05-16T16:35:38+0900"
+  },
+  "bfb26f9d927dd245cab6b89a8288a7a10061bc37206a440b4b2b304e29d22d2c": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. Content is slightly advanced for an undergraduate student, but still somewhat relevant to their learning.\"\n}",
+    "tokens_used": 314,
+    "prompt_tokens": 278,
+    "completion_tokens": 36,
+    "cached_at": "2026-05-16T16:35:41+0900"
+  },
+  "e3583bcb4576293bb16d36f1e6b27a5cfcb40dd1ea68ff1c4d4994f8772be238": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. The student is an undergraduate, but the explanations are too simplistic and lack depth for meaningful learning.\"\n}",
+    "tokens_used": 343,
+    "prompt_tokens": 305,
+    "completion_tokens": 38,
+    "cached_at": "2026-05-16T16:35:44+0900"
+  },
+  "1e77a84d1fe0bd2a69879df8d173d31a3845559898d8d1f3dcfb11cf373b57d3": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. The student is likely an undergraduate, but the explanations are too simplistic for meaningful learning at this level.\"\n}",
+    "tokens_used": 344,
+    "prompt_tokens": 305,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:35:48+0900"
+  },
+  "bc1d35a718a097b5803587e52bc073d0c118d0d12ea6fcbec3d161ce0fd1c142": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. The student is likely an undergraduate, but the explanations are too simplistic for meaningful learning at this level.\"\n}",
+    "tokens_used": 344,
+    "prompt_tokens": 305,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:35:51+0900"
+  },
+  "6c1242452025ace326d9c907bbfe748a958d845130b00198c7d5badf792aabc4": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 8,\n  \"reason\": \"Explanation is well-targeted, breaking down complex concepts into manageable steps, but assumes some prior knowledge of category theory and topology.\"\n}",
+    "tokens_used": 338,
+    "prompt_tokens": 298,
+    "completion_tokens": 40,
+    "cached_at": "2026-05-16T16:35:55+0900"
+  },
+  "a70f5196db58ab47ec007bd7868269cdd2b569f0e4264741e2c3235f3a20b018": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 8,\n  \"reason\": \"Explanation breaks down complex concepts into manageable parts, acknowledging the student's potential limitations and providing a clear direction for learning.\"\n}",
+    "tokens_used": 336,
+    "prompt_tokens": 298,
+    "completion_tokens": 38,
+    "cached_at": "2026-05-16T16:35:58+0900"
+  },
+  "d03a09220d67e213ee96c685706822950b6ff007d1a0a1de37e38b1c5bb8dc74": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 8,\n  \"reason\": \"Explanation breaks down complex concepts into manageable steps, aligning with the student's likely learning needs.\"\n}",
+    "tokens_used": 332,
+    "prompt_tokens": 298,
+    "completion_tokens": 34,
+    "cached_at": "2026-05-16T16:36:01+0900"
+  },
+  "12670840b581b9fbf5808fdec9ea080e737b471f3a3eaa98cbc2290fa047cf29": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. Student may understand some concepts but explanations are brief and lack context.\"\n}",
+    "tokens_used": 324,
+    "prompt_tokens": 292,
+    "completion_tokens": 32,
+    "cached_at": "2026-05-16T16:36:05+0900"
+  },
+  "40969707bdefc611c788e27dbfcfae918a3a2e8ab7e147fa033e8cc7a87a64d4": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. Student may understand some concepts but explanations are brief and lack context.\"\n}",
+    "tokens_used": 324,
+    "prompt_tokens": 292,
+    "completion_tokens": 32,
+    "cached_at": "2026-05-16T16:36:08+0900"
+  },
+  "6a5fad8bd00806a818bf617b344f639bc1cf496277f269535ce2ed474f31fb91": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. Student may understand some concepts but explanations are brief and lack context.\"\n}",
+    "tokens_used": 324,
+    "prompt_tokens": 292,
+    "completion_tokens": 32,
+    "cached_at": "2026-05-16T16:36:11+0900"
+  },
+  "5a33987e9aae6d456359accda61b2b7f281ee0a81632f7d6af5dfe348ff2f2ac": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. The explanation is brief but lacks depth and context, suggesting the student may already be familiar with the content.\"\n}",
+    "tokens_used": 317,
+    "prompt_tokens": 277,
+    "completion_tokens": 40,
+    "cached_at": "2026-05-16T16:36:15+0900"
+  },
+  "60b39f837e61350ad1f047e2f285f3c80730bf1a55f7ba7b2d13bc71859a235f": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. The explanation is too brief and lacks detail, but the content is somewhat relevant to the student's level.\"\n}",
+    "tokens_used": 317,
+    "prompt_tokens": 277,
+    "completion_tokens": 40,
+    "cached_at": "2026-05-16T16:36:18+0900"
+  },
+  "06f43517c9a28ce67d4b06044748dd721db2c723c3f38cb5e5aaa0413d72c428": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 5,\n  \"reason\": \"Moderate mismatch. The explanation is brief but lacks specific details and context, making it hard to assess the student's current level of understanding.\"\n}",
+    "tokens_used": 320,
+    "prompt_tokens": 277,
+    "completion_tokens": 43,
+    "cached_at": "2026-05-16T16:36:20+0900"
+  },
+  "b47d43714aca435d714863f3c2db594fc82ea40b6d6023dfa8462fd198145bc4": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 6,\n  \"reason\": \"Moderate mismatch. Concepts are advanced and may be challenging for a graduate researcher without a strong physics background, but still valuable for review or extension.\"\n}",
+    "tokens_used": 330,
+    "prompt_tokens": 286,
+    "completion_tokens": 44,
+    "cached_at": "2026-05-16T16:36:24+0900"
+  },
+  "90452e85935a7a85c859e82281c3b567f60d34c209405e69e98145da7d9c2664": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 6,\n  \"reason\": \"Moderate mismatch. Concepts are advanced, but explanation lacks contextualization and may be too abstract for a graduate researcher without prior background in theoretical physics.\"\n}",
+    "tokens_used": 330,
+    "prompt_tokens": 286,
+    "completion_tokens": 44,
+    "cached_at": "2026-05-16T16:36:27+0900"
+  },
+  "6bb97cd6ccbbf0d0abdacaf39465865276a34355a25ca5faa4ba4fc147a01aa5": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 6,\n  \"reason\": \"Moderate mismatch. The student may have some prior knowledge of these concepts, but the explanation assumes a level of understanding in advanced physics that may not be fully developed.\"\n}",
+    "tokens_used": 334,
+    "prompt_tokens": 286,
+    "completion_tokens": 48,
+    "cached_at": "2026-05-16T16:36:30+0900"
+  },
+  "98b8e30e19dba7f40416545141197d0e05b63b04a6538c6b4dd77f726a1b882a": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Too advanced for a graduate researcher, explanations are too concise and lack context.\"\n}",
+    "tokens_used": 326,
+    "prompt_tokens": 296,
+    "completion_tokens": 30,
+    "cached_at": "2026-05-16T16:36:34+0900"
+  },
+  "37c0e769e99d6161436468d649e2b9d3ff982f125d36c8619035be39c0bb08e1": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Moderate mismatch. The explanations are too advanced and assume a high level of prior knowledge in abstract algebra and category theory.\"\n}",
+    "tokens_used": 335,
+    "prompt_tokens": 296,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:36:37+0900"
+  },
+  "1765eaebd784b38dfce146de24e1442f06d75132a30b9f61a17583fa6e8ee175": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Moderate mismatch. The explanations are too advanced and assume a high level of prior knowledge in abstract algebra and category theory.\"\n}",
+    "tokens_used": 335,
+    "prompt_tokens": 296,
+    "completion_tokens": 39,
+    "cached_at": "2026-05-16T16:36:40+0900"
+  },
+  "9406d1adc5a2a7f5ae79106aa5936f9a01e97a26cd45e6e67d157844b7a36097": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Explanation is too advanced for a graduate researcher, assuming a basic understanding of category theory and abstract algebra, and lacks context for practical applications.\"\n}",
+    "tokens_used": 331,
+    "prompt_tokens": 289,
+    "completion_tokens": 42,
+    "cached_at": "2026-05-16T16:36:44+0900"
+  },
+  "1b9c5102382e47d233f840129dbb60e21c06a2d41ddc9a0b83bb753f9008623f": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Explanation is too advanced for a graduate researcher, assuming they have a basic understanding of the topics, but lacks context and clarity for a deeper understanding.\"\n}",
+    "tokens_used": 333,
+    "prompt_tokens": 289,
+    "completion_tokens": 44,
+    "cached_at": "2026-05-16T16:36:47+0900"
+  },
+  "dbda8ac9182d3bde5410f74d95869db484dcf6b648c784f7dc1c5400f96a7e23": {
+    "ok": true,
+    "model": "llama-3.1-8b-instant",
+    "content": "{\n  \"score\": 4,\n  \"reason\": \"Explanation is too advanced for a graduate researcher, assuming they have a basic understanding of the subject matter, and lacks context or prior knowledge assumptions.\"\n}",
+    "tokens_used": 332,
+    "prompt_tokens": 289,
+    "completion_tokens": 43,
+    "cached_at": "2026-05-16T16:36:50+0900"
+  }
+}

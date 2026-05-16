@@ -1,0 +1,53 @@
+{
+  "phase1": {
+    "llm_rho": 0.919,
+    "lltm_rho": 0.5
+  },
+  "phase4_absolute_scores": {
+    "corpus_prefix": {
+      "mean": 5.67,
+      "std": 1.11,
+      "tokens": 3002
+    },
+    "random": {
+      "mean": 4.72,
+      "std": 0.8,
+      "tokens": 3188
+    },
+    "difficulty_only": {
+      "mean": 3.67,
+      "std": 2.36,
+      "tokens": 3554
+    },
+    "pcr": {
+      "mean": 6.06,
+      "std": 1.39,
+      "tokens": 3140
+    }
+  },
+  "phase3_pairwise": {
+    "pcr_vs_difficulty_only": {
+      "pcr_wins": 15,
+      "total": 18,
+      "win_rate": 0.833
+    },
+    "pcr_vs_random": {
+      "pcr_wins": 12,
+      "total": 18,
+      "win_rate": 0.667
+    }
+  },
+  "statistical_tests": {
+    "pcr_vs_difficulty_eval_p": 0.004,
+    "pcr_vs_difficulty_user_p": 0.109,
+    "pcr_vs_random_eval_p": 0.119,
+    "pcr_vs_random_user_p": 0.344,
+    "cohens_d_vs_corpus_prefix": 0.31,
+    "cohens_d_vs_random": 1.18,
+    "cohens_d_vs_difficulty": 1.23
+  },
+  "simulation_scaling": {
+    "sigma_1": 1.49,
+    "sigma_8": 3.15
+  }
+}

@@ -1,0 +1,7 @@
+id,theta,label
+theta_m2,-2.0,Elementary student
+theta_m1,-1.0,Middle school student
+theta_0,0.0,High school student
+theta_1,1.0,Undergraduate (early)
+theta_2,2.0,Undergraduate (advanced)
+theta_3,3.0,Graduate researcher
