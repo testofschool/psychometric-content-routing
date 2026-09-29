@@ -4,14 +4,38 @@
 
 Jung Min Kang (2026)
 
-**Paper:** [arXiv link pending]
+**Paper / archive:** Zenodo, DOI [10.5281/zenodo.20242296](https://doi.org/10.5281/zenodo.20242296)
 
 ## Key Result
 
 Under equal chunk counts (4 of 20), PCR achieves:
-- **6.06 ± 1.39** vs 3.67 ± 2.36 (difficulty-only), Cohen's d = 1.23
-- 15/18 judge-repeat wins (p = 0.004); 5/6 user-level trend (p ≈ 0.109)
-- Trends above corpus-prefix (5.67) and fixed-random (4.72)
+- **6.06 ± 1.39** vs 3.67 ± 2.36 (difficulty-only), Cohen's d = 1.23 — *reconstructed from cache by call order only, not key-verified; see [Reproducibility status](#reproducibility-status)*
+- 15/18 judge-repeat wins (p = 0.004); 5/6 user-level trend (p ≈ 0.109) — *NOT reproducible from the committed cache; see [Reproducibility status](#reproducibility-status)*
+- Trends above corpus-prefix (5.67) and fixed-random (4.72) — *reconstructed from cache by call order only, not key-verified*
+
+The pairwise PCR vs fixed-random result reported in the paper (12/18) is likewise *NOT reproducible from the committed cache*.
+
+## Reproducibility status
+
+The reported figures above (and in `results/reported_run/summary_stats.json`, `main.tex`) **could not be reproduced from the committed cache** by re-running the code.
+
+**Why.** `src/run_experiment.py` (`call_groq`) builds cache keys as `md5("{model}:{system}:{user_msg}:{temperature}:{salt}")` (32 hex chars) and writes the token count as `tokens`. The committed `cache/api_cache.json` has 197 entries with 64-hex-char keys and a `tokens_used` field, so it was written by a different version of the code. Its contents also show the prompts/labels differed from the committed ones (e.g. judge replies refer to "early elementary students", while `data/users.csv` says "Elementary student"). Re-running `run_experiment.py` therefore gets zero cache hits and would issue fresh API calls. The original run logs and `results/experiment_results.json` were not committed.
+
+**Reconstruction attempt.** `python scripts/reproduce_from_cache.py` (no API calls):
+
+- Key-based lookup: rebuilding the Phase 1 (20) and Phase 2 (24) requests exactly as `run_experiment.py` does gives **0 hits** under both md5 and sha256 of the same key string.
+- Order-based fallback: cache entries are stored in call order; the 132 entries carrying a `model` field form one complete run (24 generations, 36 pairwise, 72 absolute). Assigning them by `run_experiment.py`'s loop order (an assumption that cannot be checked against the keys) gives:
+
+| Figure | Reported | Order-based reconstruction |
+|---|---|---|
+| Phase 4 mean ± std: PCR / difficulty-only / fixed-random / corpus-prefix | 6.06±1.39 / 3.67±2.36 / 4.72±0.80 / 5.67±1.11 | 6.06±1.39 / 3.67±2.36 / 4.72±0.80 / 5.67±1.11 (matches) |
+| Cohen's d, PCR vs difficulty-only | 1.23 | 1.23 (matches) |
+| Pairwise PCR vs difficulty-only | 15/18, p = 0.004 | 9/18, one-sided binomial p = 0.5927 |
+| Pairwise PCR vs fixed-random | 12/18 | 10/18, one-sided binomial p = 0.4073 |
+| Users with PCR majority (vs difficulty-only) | 5/6 | 3/6 |
+
+So the absolute-score (Phase 4) figures are consistent with the cached run under the call-order assumption, while the pairwise (Phase 3) figures and their p-values are not. The reported numbers are left unchanged here; the reconstruction is **not** a replacement result.
+
 
 ## Method
 
@@ -56,7 +80,9 @@ src/
 results/
   reported_run/summary_stats.json        Reported-run summary statistics
 cache/
-  api_cache.json                         Cached Groq API responses (197 entries)
+  api_cache.json                         Cached Groq API responses (197 entries; keys not compatible with src/, see Reproducibility status)
+scripts/
+  reproduce_from_cache.py                Cache-only reproducibility check (no API calls)
 ```
 
 ## Models
@@ -89,7 +115,8 @@ Raw LLTM scores are linearly calibrated to the θ scale before routing. Correlat
   title={Psychometric Content Routing: Frontier-Value Selection for User-Conditioned LLM Processing},
   author={Kang, Jung Min},
   year={2026},
-  note={arXiv preprint (pending)}
+  publisher={Zenodo},
+  doi={10.5281/zenodo.20242296}
 }
 ```
 
